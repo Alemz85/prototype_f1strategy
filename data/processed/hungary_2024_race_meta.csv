@@ -1,0 +1,21 @@
+driver_code,driver_name,constructor,grid_position,final_position,total_stops,expected_total_stops,total_laps,status,pit_laps
+PIA,Piastri,McLaren,2,1,2,2,70,Finished,"18,47"
+NOR,Norris,McLaren,1,2,2,2,70,Finished,"17,45"
+HAM,Hamilton,Mercedes,5,3,2,2,70,Finished,"16,40"
+LEC,Leclerc,Ferrari,6,4,2,2,70,Finished,"23,40"
+VER,Verstappen,Red Bull,3,5,2,2,70,Finished,"21,49"
+SAI,Sainz,Ferrari,4,6,2,2,70,Finished,"21,47"
+PER,Pérez,Red Bull,16,7,2,2,70,Finished,"28,47"
+RUS,Russell,Mercedes,17,8,2,2,70,Finished,"33,53"
+TSU,Tsunoda,RB F1 Team,10,9,1,1,70,Finished,29
+STR,Stroll,Aston Martin,8,10,2,2,70,Finished,"14,45"
+ALO,Alonso,Aston Martin,7,11,2,2,70,Finished,"7,37"
+RIC,Ricciardo,RB F1 Team,9,12,2,2,69,+1 Lap,"7,28"
+HUL,Hülkenberg,Haas F1 Team,11,13,2,2,69,+1 Lap,"2,29"
+ALB,Albon,Williams,13,14,2,2,69,+1 Lap,"6,29"
+MAG,Magnussen,Haas F1 Team,15,15,2,2,69,+1 Lap,"6,34"
+BOT,Bottas,Sauber,12,16,2,2,69,+1 Lap,"16,45"
+SAR,Sargeant,Williams,14,17,3,3,69,+1 Lap,"8,33,63"
+OCO,Ocon,Alpine F1 Team,19,18,3,3,69,+1 Lap,"6,30,64"
+ZHO,Zhou,Sauber,18,19,2,2,69,+1 Lap,"7,36"
+GAS,Gasly,Alpine F1 Team,0,20,1,1,33,Hydraulics,28

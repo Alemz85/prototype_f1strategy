@@ -1,0 +1,7 @@
+{
+  "race": "2024 Hungarian Grand Prix",
+  "raceId": 1133,
+  "circuit": "Hungaroring",
+  "estimated_pit_loss_ms": 20600,
+  "note": "Known Hungaroring pit loss of 20.6s used instead of calculated estimate"
+}

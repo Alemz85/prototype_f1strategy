@@ -1,0 +1,1356 @@
+lap,driver_code,driver_name,constructor,lap_time_ms,cumulative_time_ms,position,is_pit_lap,pit_stop_number,pit_duration_ms,total_stops_so_far,stint_number,lap_in_stint,grid_position,final_position
+1,PIA,Piastri,McLaren,86746,86746,1,False,,,0,1,1,2,1
+1,VER,Verstappen,Red Bull,88336,88336,2,False,,,0,1,1,3,5
+1,NOR,Norris,McLaren,89389,89389,3,False,,,0,1,1,1,2
+1,HAM,Hamilton,Mercedes,90241,90241,4,False,,,0,1,1,5,3
+1,LEC,Leclerc,Ferrari,91218,91218,5,False,,,0,1,1,6,4
+1,ALO,Alonso,Aston Martin,91876,91876,6,False,,,0,1,1,7,11
+1,SAI,Sainz,Ferrari,92367,92367,7,False,,,0,1,1,4,6
+1,STR,Stroll,Aston Martin,92820,92820,8,False,,,0,1,1,8,10
+1,ALB,Albon,Williams,93240,93240,9,False,,,0,1,1,13,14
+1,MAG,Magnussen,Haas F1 Team,93837,93837,10,False,,,0,1,1,15,15
+1,RIC,Ricciardo,RB F1 Team,94329,94329,11,False,,,0,1,1,9,12
+1,TSU,Tsunoda,RB F1 Team,95046,95046,12,False,,,0,1,1,10,9
+1,BOT,Bottas,Sauber,95430,95430,13,False,,,0,1,1,12,16
+1,HUL,Hülkenberg,Haas F1 Team,95921,95921,14,False,,,0,1,1,11,13
+1,OCO,Ocon,Alpine F1 Team,96411,96411,15,False,,,0,1,1,19,18
+1,RUS,Russell,Mercedes,96915,96915,16,False,,,0,1,1,17,8
+1,PER,Pérez,Red Bull,97441,97441,17,False,,,0,1,1,16,7
+1,SAR,Sargeant,Williams,97623,97623,18,False,,,0,1,1,14,17
+1,ZHO,Zhou,Sauber,97963,97963,19,False,,,0,1,1,18,19
+1,GAS,Gasly,Alpine F1 Team,98598,98598,20,False,,,0,1,1,0,20
+2,PIA,Piastri,McLaren,84038,170784,1,False,,,0,1,2,2,1
+2,VER,Verstappen,Red Bull,84026,172362,2,False,,,0,1,2,3,5
+2,NOR,Norris,McLaren,84240,173629,3,False,,,0,1,2,1,2
+2,HAM,Hamilton,Mercedes,84832,175073,4,False,,,0,1,2,5,3
+2,LEC,Leclerc,Ferrari,85076,176294,5,False,,,0,1,2,6,4
+2,ALO,Alonso,Aston Martin,86085,177961,6,False,,,0,1,2,7,11
+2,SAI,Sainz,Ferrari,86038,178405,7,False,,,0,1,2,4,6
+2,STR,Stroll,Aston Martin,86376,179196,8,False,,,0,1,2,8,10
+2,ALB,Albon,Williams,86441,179681,9,False,,,0,1,2,13,14
+2,MAG,Magnussen,Haas F1 Team,86680,180517,10,False,,,0,1,2,15,15
+2,RIC,Ricciardo,RB F1 Team,86602,180931,11,False,,,0,1,2,9,12
+2,TSU,Tsunoda,RB F1 Team,86461,181507,12,False,,,0,1,2,10,9
+2,BOT,Bottas,Sauber,86578,182008,13,False,,,0,1,2,12,16
+2,OCO,Ocon,Alpine F1 Team,86711,183122,14,False,,,0,1,2,19,18
+2,RUS,Russell,Mercedes,86918,183833,15,False,,,0,1,2,17,8
+2,SAR,Sargeant,Williams,86841,184464,16,False,,,0,1,2,14,17
+2,HUL,Hülkenberg,Haas F1 Team,88821,184742,17,True,1.0,22287.0,1,1,2,11,13
+2,PER,Pérez,Red Bull,87372,184813,18,False,,,0,1,2,16,7
+2,ZHO,Zhou,Sauber,87425,185388,19,False,,,0,1,2,18,19
+2,GAS,Gasly,Alpine F1 Team,87321,185919,20,False,,,0,1,2,0,20
+3,PIA,Piastri,McLaren,84401,255185,1,False,,,0,1,3,2,1
+3,VER,Verstappen,Red Bull,84075,256437,2,False,,,0,1,3,3,5
+3,NOR,Norris,McLaren,84393,258022,3,False,,,0,1,3,1,2
+3,HAM,Hamilton,Mercedes,84679,259752,4,False,,,0,1,3,5,3
+3,LEC,Leclerc,Ferrari,84647,260941,5,False,,,0,1,3,6,4
+3,SAI,Sainz,Ferrari,84871,263276,6,False,,,0,1,3,4,6
+3,ALO,Alonso,Aston Martin,86908,264869,7,False,,,0,1,3,7,11
+3,STR,Stroll,Aston Martin,86471,265667,8,False,,,0,1,3,8,10
+3,ALB,Albon,Williams,86583,266264,9,False,,,0,1,3,13,14
+3,MAG,Magnussen,Haas F1 Team,86600,267117,10,False,,,0,1,3,15,15
+3,RIC,Ricciardo,RB F1 Team,86545,267476,11,False,,,0,1,3,9,12
+3,TSU,Tsunoda,RB F1 Team,86681,268188,12,False,,,0,1,3,10,9
+3,BOT,Bottas,Sauber,86586,268594,13,False,,,0,1,3,12,16
+3,OCO,Ocon,Alpine F1 Team,86303,269425,14,False,,,0,1,3,19,18
+3,RUS,Russell,Mercedes,86012,269845,15,False,,,0,1,3,17,8
+3,SAR,Sargeant,Williams,85954,270418,16,False,,,0,1,3,14,17
+3,PER,Pérez,Red Bull,86051,270864,17,False,,,0,1,3,16,7
+3,ZHO,Zhou,Sauber,86130,271518,18,False,,,0,1,3,18,19
+3,GAS,Gasly,Alpine F1 Team,86056,271975,19,False,,,0,1,3,0,20
+3,HUL,Hülkenberg,Haas F1 Team,101266,286008,20,False,,,1,2,1,11,13
+4,PIA,Piastri,McLaren,84115,339300,1,False,,,0,1,4,2,1
+4,NOR,Norris,McLaren,83627,341649,2,False,,,0,1,4,1,2
+4,VER,Verstappen,Red Bull,86075,342512,3,False,,,0,1,4,3,5
+4,HAM,Hamilton,Mercedes,84279,344031,4,False,,,0,1,4,5,3
+4,LEC,Leclerc,Ferrari,84546,345487,5,False,,,0,1,4,6,4
+4,SAI,Sainz,Ferrari,85043,348319,6,False,,,0,1,4,4,6
+4,ALO,Alonso,Aston Martin,86009,350878,7,False,,,0,1,4,7,11
+4,STR,Stroll,Aston Martin,86069,351736,8,False,,,0,1,4,8,10
+4,ALB,Albon,Williams,85933,352197,9,False,,,0,1,4,13,14
+4,MAG,Magnussen,Haas F1 Team,85911,353028,10,False,,,0,1,4,15,15
+4,RIC,Ricciardo,RB F1 Team,86208,353684,11,False,,,0,1,4,9,12
+4,TSU,Tsunoda,RB F1 Team,86192,354380,12,False,,,0,1,4,10,9
+4,BOT,Bottas,Sauber,86343,354937,13,False,,,0,1,4,12,16
+4,OCO,Ocon,Alpine F1 Team,86415,355840,14,False,,,0,1,4,19,18
+4,RUS,Russell,Mercedes,86339,356184,15,False,,,0,1,4,17,8
+4,SAR,Sargeant,Williams,86265,356683,16,False,,,0,1,4,14,17
+4,PER,Pérez,Red Bull,86364,357228,17,False,,,0,1,4,16,7
+4,ZHO,Zhou,Sauber,86361,357879,18,False,,,0,1,4,18,19
+4,GAS,Gasly,Alpine F1 Team,86409,358384,19,False,,,0,1,4,0,20
+4,HUL,Hülkenberg,Haas F1 Team,83509,369517,20,False,,,1,2,2,11,13
+5,PIA,Piastri,McLaren,83796,423096,1,False,,,0,1,5,2,1
+5,NOR,Norris,McLaren,83804,425453,2,False,,,0,1,5,1,2
+5,VER,Verstappen,Red Bull,83979,426491,3,False,,,0,1,5,3,5
+5,HAM,Hamilton,Mercedes,84001,428032,4,False,,,0,1,5,5,3
+5,LEC,Leclerc,Ferrari,84112,429599,5,False,,,0,1,5,6,4
+5,SAI,Sainz,Ferrari,84520,432839,6,False,,,0,1,5,4,6
+5,ALO,Alonso,Aston Martin,85978,436856,7,False,,,0,1,5,7,11
+5,STR,Stroll,Aston Martin,85926,437662,8,False,,,0,1,5,8,10
+5,ALB,Albon,Williams,86179,438376,9,False,,,0,1,5,13,14
+5,MAG,Magnussen,Haas F1 Team,86149,439177,10,False,,,0,1,5,15,15
+5,RIC,Ricciardo,RB F1 Team,86010,439694,11,False,,,0,1,5,9,12
+5,TSU,Tsunoda,RB F1 Team,85887,440267,12,False,,,0,1,5,10,9
+5,BOT,Bottas,Sauber,86207,441144,13,False,,,0,1,5,12,16
+5,OCO,Ocon,Alpine F1 Team,86158,441998,14,False,,,0,1,5,19,18
+5,RUS,Russell,Mercedes,86217,442401,15,False,,,0,1,5,17,8
+5,SAR,Sargeant,Williams,86475,443158,16,False,,,0,1,5,14,17
+5,PER,Pérez,Red Bull,86461,443689,17,False,,,0,1,5,16,7
+5,ZHO,Zhou,Sauber,86498,444377,18,False,,,0,1,5,18,19
+5,GAS,Gasly,Alpine F1 Team,86594,444978,19,False,,,0,1,5,0,20
+5,HUL,Hülkenberg,Haas F1 Team,84206,453723,20,False,,,1,2,3,11,13
+6,PIA,Piastri,McLaren,83846,506942,1,False,,,0,1,6,2,1
+6,NOR,Norris,McLaren,84045,509498,2,False,,,0,1,6,1,2
+6,VER,Verstappen,Red Bull,84255,510746,3,False,,,0,1,6,3,5
+6,HAM,Hamilton,Mercedes,84154,512186,4,False,,,0,1,6,5,3
+6,LEC,Leclerc,Ferrari,84119,513718,5,False,,,0,1,6,6,4
+6,SAI,Sainz,Ferrari,84526,517365,6,False,,,0,1,6,4,6
+6,ALO,Alonso,Aston Martin,85854,522710,7,False,,,0,1,6,7,11
+6,STR,Stroll,Aston Martin,85838,523500,8,False,,,0,1,6,8,10
+6,RIC,Ricciardo,RB F1 Team,85717,525411,9,False,,,0,1,6,9,12
+6,TSU,Tsunoda,RB F1 Team,86079,526346,10,False,,,0,1,6,10,9
+6,ALB,Albon,Williams,88058,526434,11,True,1.0,22091.0,1,1,6,13,14
+6,BOT,Bottas,Sauber,86020,527164,12,False,,,0,1,6,12,16
+6,MAG,Magnussen,Haas F1 Team,88066,527243,13,True,1.0,21871.0,1,1,6,15,15
+6,RUS,Russell,Mercedes,85967,528368,14,False,,,0,1,6,17,8
+6,SAR,Sargeant,Williams,86082,529240,15,False,,,0,1,6,14,17
+6,PER,Pérez,Red Bull,86010,529699,16,False,,,0,1,6,16,7
+6,ZHO,Zhou,Sauber,85991,530368,17,False,,,0,1,6,18,19
+6,OCO,Ocon,Alpine F1 Team,88553,530551,18,True,1.0,21829.0,1,1,6,19,18
+6,GAS,Gasly,Alpine F1 Team,86140,531118,19,False,,,0,1,6,0,20
+6,HUL,Hülkenberg,Haas F1 Team,84687,538410,20,False,,,1,2,4,11,13
+7,PIA,Piastri,McLaren,84110,591052,1,False,,,0,1,7,2,1
+7,NOR,Norris,McLaren,84085,593583,2,False,,,0,1,7,1,2
+7,VER,Verstappen,Red Bull,84380,595126,3,False,,,0,1,7,3,5
+7,HAM,Hamilton,Mercedes,84193,596379,4,False,,,0,1,7,5,3
+7,LEC,Leclerc,Ferrari,84025,597743,5,False,,,0,1,7,6,4
+7,SAI,Sainz,Ferrari,84049,601414,6,False,,,0,1,7,4,6
+7,STR,Stroll,Aston Martin,84814,608314,7,False,,,0,1,7,8,10
+7,ALO,Alonso,Aston Martin,86161,608871,8,True,1.0,22542.0,1,1,7,7,11
+7,TSU,Tsunoda,RB F1 Team,84546,610892,9,False,,,0,1,7,10,9
+7,RIC,Ricciardo,RB F1 Team,86300,611711,10,True,1.0,21084.0,1,1,7,9,12
+7,BOT,Bottas,Sauber,84968,612132,11,False,,,0,1,7,12,16
+7,RUS,Russell,Mercedes,84569,612937,12,False,,,0,1,7,17,8
+7,SAR,Sargeant,Williams,85070,614310,13,False,,,0,1,7,14,17
+7,PER,Pérez,Red Bull,85240,614939,14,False,,,0,1,7,16,7
+7,GAS,Gasly,Alpine F1 Team,85505,616623,15,False,,,0,1,7,0,20
+7,ZHO,Zhou,Sauber,88146,618514,16,True,1.0,21993.0,1,1,7,18,19
+7,HUL,Hülkenberg,Haas F1 Team,85002,623412,17,False,,,1,2,5,11,13
+7,ALB,Albon,Williams,102198,628632,18,False,,,1,2,1,13,14
+7,MAG,Magnussen,Haas F1 Team,102430,629673,19,False,,,1,2,1,15,15
+7,OCO,Ocon,Alpine F1 Team,101761,632312,20,False,,,1,2,1,19,18
+8,PIA,Piastri,McLaren,83892,674944,1,False,,,0,1,8,2,1
+8,NOR,Norris,McLaren,84027,677610,2,False,,,0,1,8,1,2
+8,VER,Verstappen,Red Bull,84292,679418,3,False,,,0,1,8,3,5
+8,HAM,Hamilton,Mercedes,84235,680614,4,False,,,0,1,8,5,3
+8,LEC,Leclerc,Ferrari,84381,682124,5,False,,,0,1,8,6,4
+8,SAI,Sainz,Ferrari,84408,685822,6,False,,,0,1,8,4,6
+8,STR,Stroll,Aston Martin,84400,692714,7,False,,,0,1,8,8,10
+8,TSU,Tsunoda,RB F1 Team,84629,695521,8,False,,,0,1,8,10,9
+8,BOT,Bottas,Sauber,85188,697320,9,False,,,0,1,8,12,16
+8,RUS,Russell,Mercedes,85157,698094,10,False,,,0,1,8,17,8
+8,PER,Pérez,Red Bull,85051,699990,11,False,,,0,1,8,16,7
+8,SAR,Sargeant,Williams,87436,701746,12,True,1.0,21757.0,1,1,8,14,17
+8,GAS,Gasly,Alpine F1 Team,85890,702513,13,False,,,0,1,8,0,20
+8,HUL,Hülkenberg,Haas F1 Team,84829,708241,14,False,,,1,2,6,11,13
+8,ALO,Alonso,Aston Martin,103292,712163,15,False,,,1,2,1,7,11
+8,ALB,Albon,Williams,84624,713256,16,False,,,1,2,2,13,14
+8,MAG,Magnussen,Haas F1 Team,84576,714249,17,False,,,1,2,2,15,15
+8,RIC,Ricciardo,RB F1 Team,103084,714795,18,False,,,1,2,1,9,12
+8,OCO,Ocon,Alpine F1 Team,84287,716599,19,False,,,1,2,2,19,18
+8,ZHO,Zhou,Sauber,102412,720926,20,False,,,1,2,1,18,19
+9,PIA,Piastri,McLaren,84206,759150,1,False,,,0,1,9,2,1
+9,NOR,Norris,McLaren,84225,761835,2,False,,,0,1,9,1,2
+9,VER,Verstappen,Red Bull,84444,763862,3,False,,,0,1,9,3,5
+9,HAM,Hamilton,Mercedes,84366,764980,4,False,,,0,1,9,5,3
+9,LEC,Leclerc,Ferrari,84308,766432,5,False,,,0,1,9,6,4
+9,SAI,Sainz,Ferrari,84290,770112,6,False,,,0,1,9,4,6
+9,STR,Stroll,Aston Martin,84601,777315,7,False,,,0,1,9,8,10
+9,TSU,Tsunoda,RB F1 Team,84541,780062,8,False,,,0,1,9,10,9
+9,BOT,Bottas,Sauber,84876,782196,9,False,,,0,1,9,12,16
+9,RUS,Russell,Mercedes,84836,782930,10,False,,,0,1,9,17,8
+9,PER,Pérez,Red Bull,84197,784187,11,False,,,0,1,9,16,7
+9,GAS,Gasly,Alpine F1 Team,85410,787923,12,False,,,0,1,9,0,20
+9,HUL,Hülkenberg,Haas F1 Team,85234,793475,13,False,,,1,2,7,11,13
+9,ALO,Alonso,Aston Martin,84968,797131,14,False,,,1,2,2,7,11
+9,ALB,Albon,Williams,84892,798148,15,False,,,1,2,3,13,14
+9,MAG,Magnussen,Haas F1 Team,84852,799101,16,False,,,1,2,3,15,15
+9,RIC,Ricciardo,RB F1 Team,84708,799503,17,False,,,1,2,2,9,12
+9,OCO,Ocon,Alpine F1 Team,84609,801208,18,False,,,1,2,3,19,18
+9,SAR,Sargeant,Williams,102746,804492,19,False,,,1,2,1,14,17
+9,ZHO,Zhou,Sauber,84849,805775,20,False,,,1,2,2,18,19
+10,PIA,Piastri,McLaren,84257,843407,1,False,,,0,1,10,2,1
+10,NOR,Norris,McLaren,84508,846343,2,False,,,0,1,10,1,2
+10,VER,Verstappen,Red Bull,84514,848376,3,False,,,0,1,10,3,5
+10,HAM,Hamilton,Mercedes,84632,849612,4,False,,,0,1,10,5,3
+10,LEC,Leclerc,Ferrari,84604,851036,5,False,,,0,1,10,6,4
+10,SAI,Sainz,Ferrari,84606,854718,6,False,,,0,1,10,4,6
+10,STR,Stroll,Aston Martin,84929,862244,7,False,,,0,1,10,8,10
+10,TSU,Tsunoda,RB F1 Team,84695,864757,8,False,,,0,1,10,10,9
+10,BOT,Bottas,Sauber,85010,867206,9,False,,,0,1,10,12,16
+10,RUS,Russell,Mercedes,85057,867987,10,False,,,0,1,10,17,8
+10,PER,Pérez,Red Bull,84847,869034,11,False,,,0,1,10,16,7
+10,GAS,Gasly,Alpine F1 Team,85164,873087,12,False,,,0,1,10,0,20
+10,HUL,Hülkenberg,Haas F1 Team,84978,878453,13,False,,,1,2,8,11,13
+10,ALO,Alonso,Aston Martin,85175,882306,14,False,,,1,2,3,7,11
+10,ALB,Albon,Williams,85111,883259,15,False,,,1,2,4,13,14
+10,MAG,Magnussen,Haas F1 Team,85029,884130,16,False,,,1,2,4,15,15
+10,RIC,Ricciardo,RB F1 Team,85145,884648,17,False,,,1,2,3,9,12
+10,OCO,Ocon,Alpine F1 Team,85061,886269,18,False,,,1,2,4,19,18
+10,SAR,Sargeant,Williams,84838,889330,19,False,,,1,2,2,14,17
+10,ZHO,Zhou,Sauber,84932,890707,20,False,,,1,2,3,18,19
+11,PIA,Piastri,McLaren,84062,927469,1,False,,,0,1,11,2,1
+11,NOR,Norris,McLaren,84245,930588,2,False,,,0,1,11,1,2
+11,VER,Verstappen,Red Bull,84374,932750,3,False,,,0,1,11,3,5
+11,HAM,Hamilton,Mercedes,84379,933991,4,False,,,0,1,11,5,3
+11,LEC,Leclerc,Ferrari,84632,935668,5,False,,,0,1,11,6,4
+11,SAI,Sainz,Ferrari,84663,939381,6,False,,,0,1,11,4,6
+11,STR,Stroll,Aston Martin,84764,947008,7,False,,,0,1,11,8,10
+11,TSU,Tsunoda,RB F1 Team,84638,949395,8,False,,,0,1,11,10,9
+11,BOT,Bottas,Sauber,85150,952356,9,False,,,0,1,11,12,16
+11,RUS,Russell,Mercedes,85248,953235,10,False,,,0,1,11,17,8
+11,PER,Pérez,Red Bull,85013,954047,11,False,,,0,1,11,16,7
+11,GAS,Gasly,Alpine F1 Team,86461,959548,12,False,,,0,1,11,0,20
+11,HUL,Hülkenberg,Haas F1 Team,84786,963239,13,False,,,1,2,9,11,13
+11,ALO,Alonso,Aston Martin,84631,966937,14,False,,,1,2,4,7,11
+11,ALB,Albon,Williams,84572,967831,15,False,,,1,2,5,13,14
+11,MAG,Magnussen,Haas F1 Team,84836,968966,16,False,,,1,2,5,15,15
+11,RIC,Ricciardo,RB F1 Team,84905,969553,17,False,,,1,2,4,9,12
+11,OCO,Ocon,Alpine F1 Team,84861,971130,18,False,,,1,2,5,19,18
+11,SAR,Sargeant,Williams,84735,974065,19,False,,,1,2,3,14,17
+11,ZHO,Zhou,Sauber,84738,975445,20,False,,,1,2,4,18,19
+12,PIA,Piastri,McLaren,83893,1011362,1,False,,,0,1,12,2,1
+12,NOR,Norris,McLaren,84042,1014630,2,False,,,0,1,12,1,2
+12,VER,Verstappen,Red Bull,84422,1017172,3,False,,,0,1,12,3,5
+12,HAM,Hamilton,Mercedes,84388,1018379,4,False,,,0,1,12,5,3
+12,LEC,Leclerc,Ferrari,84411,1020079,5,False,,,0,1,12,6,4
+12,SAI,Sainz,Ferrari,84555,1023936,6,False,,,0,1,12,4,6
+12,STR,Stroll,Aston Martin,84813,1031821,7,False,,,0,1,12,8,10
+12,TSU,Tsunoda,RB F1 Team,84725,1034120,8,False,,,0,1,12,10,9
+12,BOT,Bottas,Sauber,84969,1037325,9,False,,,0,1,12,12,16
+12,RUS,Russell,Mercedes,85094,1038329,10,False,,,0,1,12,17,8
+12,PER,Pérez,Red Bull,85126,1039173,11,False,,,0,1,12,16,7
+12,GAS,Gasly,Alpine F1 Team,85543,1045091,12,False,,,0,1,12,0,20
+12,HUL,Hülkenberg,Haas F1 Team,85058,1048297,13,False,,,1,2,10,11,13
+12,ALO,Alonso,Aston Martin,84813,1051750,14,False,,,1,2,5,7,11
+12,ALB,Albon,Williams,84889,1052720,15,False,,,1,2,6,13,14
+12,MAG,Magnussen,Haas F1 Team,84658,1053624,16,False,,,1,2,6,15,15
+12,RIC,Ricciardo,RB F1 Team,84810,1054363,17,False,,,1,2,5,9,12
+12,OCO,Ocon,Alpine F1 Team,85038,1056168,18,False,,,1,2,6,19,18
+12,SAR,Sargeant,Williams,84735,1058800,19,False,,,1,2,4,14,17
+12,ZHO,Zhou,Sauber,84663,1060108,20,False,,,1,2,5,18,19
+13,PIA,Piastri,McLaren,83887,1095249,1,False,,,0,1,13,2,1
+13,NOR,Norris,McLaren,84343,1098973,2,False,,,0,1,13,1,2
+13,VER,Verstappen,Red Bull,84769,1101941,3,False,,,0,1,13,3,5
+13,HAM,Hamilton,Mercedes,84700,1103079,4,False,,,0,1,13,5,3
+13,LEC,Leclerc,Ferrari,84642,1104721,5,False,,,0,1,13,6,4
+13,SAI,Sainz,Ferrari,84989,1108925,6,False,,,0,1,13,4,6
+13,STR,Stroll,Aston Martin,85366,1117187,7,False,,,0,1,13,8,10
+13,TSU,Tsunoda,RB F1 Team,85314,1119434,8,False,,,0,1,13,10,9
+13,BOT,Bottas,Sauber,85277,1122602,9,False,,,0,1,13,12,16
+13,RUS,Russell,Mercedes,85334,1123663,10,False,,,0,1,13,17,8
+13,PER,Pérez,Red Bull,85194,1124367,11,False,,,0,1,13,16,7
+13,GAS,Gasly,Alpine F1 Team,85579,1130670,12,False,,,0,1,13,0,20
+13,HUL,Hülkenberg,Haas F1 Team,85285,1133582,13,False,,,1,2,11,11,13
+13,ALO,Alonso,Aston Martin,85408,1137158,14,False,,,1,2,6,7,11
+13,ALB,Albon,Williams,85381,1138101,15,False,,,1,2,7,13,14
+13,MAG,Magnussen,Haas F1 Team,85539,1139163,16,False,,,1,2,7,15,15
+13,RIC,Ricciardo,RB F1 Team,85269,1139632,17,False,,,1,2,6,9,12
+13,OCO,Ocon,Alpine F1 Team,85302,1141470,18,False,,,1,2,7,19,18
+13,SAR,Sargeant,Williams,84975,1143775,19,False,,,1,2,5,14,17
+13,ZHO,Zhou,Sauber,85506,1145614,20,False,,,1,2,6,18,19
+14,PIA,Piastri,McLaren,84683,1179932,1,False,,,0,1,14,2,1
+14,NOR,Norris,McLaren,84367,1183340,2,False,,,0,1,14,1,2
+14,VER,Verstappen,Red Bull,84752,1186693,3,False,,,0,1,14,3,5
+14,HAM,Hamilton,Mercedes,84742,1187821,4,False,,,0,1,14,5,3
+14,LEC,Leclerc,Ferrari,84835,1189556,5,False,,,0,1,14,6,4
+14,SAI,Sainz,Ferrari,84927,1193852,6,False,,,0,1,14,4,6
+14,TSU,Tsunoda,RB F1 Team,85369,1204803,7,False,,,0,1,14,10,9
+14,STR,Stroll,Aston Martin,88097,1205284,8,True,1.0,23237.0,1,1,14,8,10
+14,BOT,Bottas,Sauber,85625,1208227,9,False,,,0,1,14,12,16
+14,RUS,Russell,Mercedes,85737,1209400,10,False,,,0,1,14,17,8
+14,PER,Pérez,Red Bull,85924,1210291,11,False,,,0,1,14,16,7
+14,GAS,Gasly,Alpine F1 Team,85681,1216351,12,False,,,0,1,14,0,20
+14,HUL,Hülkenberg,Haas F1 Team,85135,1218717,13,False,,,1,2,12,11,13
+14,ALO,Alonso,Aston Martin,84940,1222098,14,False,,,1,2,7,7,11
+14,ALB,Albon,Williams,85068,1223169,15,False,,,1,2,8,13,14
+14,MAG,Magnussen,Haas F1 Team,85287,1224450,16,False,,,1,2,8,15,15
+14,RIC,Ricciardo,RB F1 Team,85384,1225016,17,False,,,1,2,7,9,12
+14,OCO,Ocon,Alpine F1 Team,85245,1226715,18,False,,,1,2,8,19,18
+14,SAR,Sargeant,Williams,85083,1228858,19,False,,,1,2,6,14,17
+14,ZHO,Zhou,Sauber,85368,1230982,20,False,,,1,2,7,18,19
+15,PIA,Piastri,McLaren,84299,1264231,1,False,,,0,1,15,2,1
+15,NOR,Norris,McLaren,84334,1267674,2,False,,,0,1,15,1,2
+15,VER,Verstappen,Red Bull,84538,1271231,3,False,,,0,1,15,3,5
+15,HAM,Hamilton,Mercedes,84562,1272383,4,False,,,0,1,15,5,3
+15,LEC,Leclerc,Ferrari,84846,1274402,5,False,,,0,1,15,6,4
+15,SAI,Sainz,Ferrari,84819,1278671,6,False,,,0,1,15,4,6
+15,TSU,Tsunoda,RB F1 Team,84796,1289599,7,False,,,0,1,15,10,9
+15,BOT,Bottas,Sauber,85161,1293388,8,False,,,0,1,15,12,16
+15,RUS,Russell,Mercedes,85210,1294610,9,False,,,0,1,15,17,8
+15,PER,Pérez,Red Bull,85303,1295594,10,False,,,0,1,15,16,7
+15,GAS,Gasly,Alpine F1 Team,85350,1301701,11,False,,,0,1,15,0,20
+15,HUL,Hülkenberg,Haas F1 Team,85081,1303798,12,False,,,1,2,13,11,13
+15,ALO,Alonso,Aston Martin,85375,1307473,13,False,,,1,2,8,7,11
+15,ALB,Albon,Williams,85132,1308301,14,False,,,1,2,9,13,14
+15,MAG,Magnussen,Haas F1 Team,85336,1309786,15,False,,,1,2,9,15,15
+15,STR,Stroll,Aston Martin,104868,1310152,16,False,,,1,2,1,8,10
+15,RIC,Ricciardo,RB F1 Team,86242,1311258,17,False,,,1,2,8,9,12
+15,OCO,Ocon,Alpine F1 Team,85741,1312456,18,False,,,1,2,9,19,18
+15,SAR,Sargeant,Williams,85431,1314289,19,False,,,1,2,7,14,17
+15,ZHO,Zhou,Sauber,85465,1316447,20,False,,,1,2,8,18,19
+16,PIA,Piastri,McLaren,84237,1348468,1,False,,,0,1,16,2,1
+16,NOR,Norris,McLaren,84296,1351970,2,False,,,0,1,16,1,2
+16,VER,Verstappen,Red Bull,84778,1356009,3,False,,,0,1,16,3,5
+16,LEC,Leclerc,Ferrari,84894,1359296,4,False,,,0,1,16,6,4
+16,HAM,Hamilton,Mercedes,87246,1359629,5,True,1.0,21306.0,1,1,16,5,3
+16,SAI,Sainz,Ferrari,84879,1363550,6,False,,,0,1,16,4,6
+16,TSU,Tsunoda,RB F1 Team,84898,1374497,7,False,,,0,1,16,10,9
+16,RUS,Russell,Mercedes,85298,1379908,8,False,,,0,1,16,17,8
+16,PER,Pérez,Red Bull,85364,1380958,9,False,,,0,1,16,16,7
+16,BOT,Bottas,Sauber,88010,1381398,10,True,1.0,22146.0,1,1,16,12,16
+16,GAS,Gasly,Alpine F1 Team,85728,1387429,11,False,,,0,1,16,0,20
+16,HUL,Hülkenberg,Haas F1 Team,85889,1389687,12,False,,,1,2,14,11,13
+16,ALO,Alonso,Aston Martin,85567,1393040,13,False,,,1,2,9,7,11
+16,ALB,Albon,Williams,85501,1393802,14,False,,,1,2,10,13,14
+16,STR,Stroll,Aston Martin,84322,1394474,15,False,,,1,2,2,8,10
+16,MAG,Magnussen,Haas F1 Team,86369,1396155,16,False,,,1,2,10,15,15
+16,RIC,Ricciardo,RB F1 Team,85670,1396928,17,False,,,1,2,9,9,12
+16,OCO,Ocon,Alpine F1 Team,85780,1398236,18,False,,,1,2,10,19,18
+16,SAR,Sargeant,Williams,85593,1399882,19,False,,,1,2,8,14,17
+16,ZHO,Zhou,Sauber,85617,1402064,20,False,,,1,2,9,18,19
+17,PIA,Piastri,McLaren,84248,1432716,1,False,,,0,1,17,2,1
+17,NOR,Norris,McLaren,86485,1438455,2,True,1.0,21861.0,1,1,17,1,2
+17,VER,Verstappen,Red Bull,84690,1440699,3,False,,,0,1,17,3,5
+17,LEC,Leclerc,Ferrari,84853,1444149,4,False,,,0,1,17,6,4
+17,SAI,Sainz,Ferrari,85020,1448570,5,False,,,0,1,17,4,6
+17,TSU,Tsunoda,RB F1 Team,85093,1459590,6,False,,,0,1,17,10,9
+17,HAM,Hamilton,Mercedes,100316,1459945,7,False,,,1,2,1,5,3
+17,RUS,Russell,Mercedes,84725,1464633,8,False,,,0,1,17,17,8
+17,PER,Pérez,Red Bull,84877,1465835,9,False,,,0,1,17,16,7
+17,GAS,Gasly,Alpine F1 Team,85703,1473132,10,False,,,0,1,17,0,20
+17,HUL,Hülkenberg,Haas F1 Team,85969,1475656,11,False,,,1,2,15,11,13
+17,ALO,Alonso,Aston Martin,85636,1478676,12,False,,,1,2,10,7,11
+17,ALB,Albon,Williams,85944,1479746,13,False,,,1,2,11,13,14
+17,STR,Stroll,Aston Martin,85634,1480108,14,False,,,1,2,3,8,10
+17,MAG,Magnussen,Haas F1 Team,85787,1481942,15,False,,,1,2,11,15,15
+17,RIC,Ricciardo,RB F1 Team,85531,1482459,16,False,,,1,2,10,9,12
+17,OCO,Ocon,Alpine F1 Team,85631,1483867,17,False,,,1,2,11,19,18
+17,BOT,Bottas,Sauber,102901,1484299,18,False,,,1,2,1,12,16
+17,SAR,Sargeant,Williams,86182,1486064,19,False,,,1,2,9,14,17
+17,ZHO,Zhou,Sauber,85884,1487948,20,False,,,1,2,10,18,19
+18,PIA,Piastri,McLaren,86496,1519212,1,True,1.0,21641.0,1,1,18,2,1
+18,VER,Verstappen,Red Bull,84691,1525390,2,False,,,0,1,18,3,5
+18,LEC,Leclerc,Ferrari,84707,1528856,3,False,,,0,1,18,6,4
+18,SAI,Sainz,Ferrari,84851,1533421,4,False,,,0,1,18,4,6
+18,NOR,Norris,McLaren,101807,1540262,5,False,,,1,2,1,1,2
+18,HAM,Hamilton,Mercedes,83350,1543295,6,False,,,1,2,2,5,3
+18,TSU,Tsunoda,RB F1 Team,86101,1545691,7,False,,,0,1,18,10,9
+18,RUS,Russell,Mercedes,85092,1549725,8,False,,,0,1,18,17,8
+18,PER,Pérez,Red Bull,85188,1551023,9,False,,,0,1,18,16,7
+18,GAS,Gasly,Alpine F1 Team,85709,1558841,10,False,,,0,1,18,0,20
+18,HUL,Hülkenberg,Haas F1 Team,86286,1561942,11,False,,,1,2,16,11,13
+18,ALO,Alonso,Aston Martin,84987,1563663,12,False,,,1,2,11,7,11
+18,STR,Stroll,Aston Martin,85007,1565115,13,False,,,1,2,4,8,10
+18,ALB,Albon,Williams,86837,1566583,14,False,,,1,2,12,13,14
+18,MAG,Magnussen,Haas F1 Team,85552,1567494,15,False,,,1,2,12,15,15
+18,RIC,Ricciardo,RB F1 Team,85803,1568262,16,False,,,1,2,11,9,12
+18,OCO,Ocon,Alpine F1 Team,86071,1569938,17,False,,,1,2,12,19,18
+18,BOT,Bottas,Sauber,85976,1570275,18,False,,,1,2,2,12,16
+18,SAR,Sargeant,Williams,86038,1572102,19,False,,,1,2,10,14,17
+18,ZHO,Zhou,Sauber,86003,1573951,20,False,,,1,2,11,18,19
+19,VER,Verstappen,Red Bull,84523,1609913,1,False,,,0,1,19,3,5
+19,LEC,Leclerc,Ferrari,84625,1613481,2,False,,,0,1,19,6,4
+19,SAI,Sainz,Ferrari,84773,1618194,3,False,,,0,1,19,4,6
+19,PIA,Piastri,McLaren,102479,1621691,4,False,,,1,2,1,2,1
+19,NOR,Norris,McLaren,83779,1624041,5,False,,,1,2,2,1,2
+19,HAM,Hamilton,Mercedes,83201,1626496,6,False,,,1,2,3,5,3
+19,TSU,Tsunoda,RB F1 Team,85376,1631067,7,False,,,0,1,19,10,9
+19,RUS,Russell,Mercedes,84874,1634599,8,False,,,0,1,19,17,8
+19,PER,Pérez,Red Bull,84890,1635913,9,False,,,0,1,19,16,7
+19,GAS,Gasly,Alpine F1 Team,85612,1644453,10,False,,,0,1,19,0,20
+19,HUL,Hülkenberg,Haas F1 Team,85533,1647475,11,False,,,1,2,17,11,13
+19,ALO,Alonso,Aston Martin,85083,1648746,12,False,,,1,2,12,7,11
+19,STR,Stroll,Aston Martin,85119,1650234,13,False,,,1,2,5,8,10
+19,ALB,Albon,Williams,85651,1652234,14,False,,,1,2,13,13,14
+19,MAG,Magnussen,Haas F1 Team,85677,1653171,15,False,,,1,2,13,15,15
+19,RIC,Ricciardo,RB F1 Team,85634,1653896,16,False,,,1,2,12,9,12
+19,BOT,Bottas,Sauber,84819,1655094,17,False,,,1,2,3,12,16
+19,OCO,Ocon,Alpine F1 Team,86820,1656758,18,False,,,1,2,13,19,18
+19,SAR,Sargeant,Williams,85671,1657773,19,False,,,1,2,11,14,17
+19,ZHO,Zhou,Sauber,86226,1660177,20,False,,,1,2,12,18,19
+20,VER,Verstappen,Red Bull,84501,1694414,1,False,,,0,1,20,3,5
+20,LEC,Leclerc,Ferrari,84513,1697994,2,False,,,0,1,20,6,4
+20,SAI,Sainz,Ferrari,84787,1702981,3,False,,,0,1,20,4,6
+20,PIA,Piastri,McLaren,83603,1705294,4,False,,,1,2,2,2,1
+20,NOR,Norris,McLaren,83455,1707496,5,False,,,1,2,3,1,2
+20,HAM,Hamilton,Mercedes,83332,1709828,6,False,,,1,2,4,5,3
+20,TSU,Tsunoda,RB F1 Team,85258,1716325,7,False,,,0,1,20,10,9
+20,RUS,Russell,Mercedes,84748,1719347,8,False,,,0,1,20,17,8
+20,PER,Pérez,Red Bull,84827,1720740,9,False,,,0,1,20,16,7
+20,GAS,Gasly,Alpine F1 Team,85468,1729921,10,False,,,0,1,20,0,20
+20,HUL,Hülkenberg,Haas F1 Team,85279,1732754,11,False,,,1,2,18,11,13
+20,ALO,Alonso,Aston Martin,84807,1733553,12,False,,,1,2,13,7,11
+20,STR,Stroll,Aston Martin,84747,1734981,13,False,,,1,2,6,8,10
+20,ALB,Albon,Williams,85197,1737431,14,False,,,1,2,14,13,14
+20,MAG,Magnussen,Haas F1 Team,85524,1738695,15,False,,,1,2,14,15,15
+20,RIC,Ricciardo,RB F1 Team,85467,1739363,16,False,,,1,2,13,9,12
+20,BOT,Bottas,Sauber,84916,1740010,17,False,,,1,2,4,12,16
+20,OCO,Ocon,Alpine F1 Team,85239,1741997,18,False,,,1,2,14,19,18
+20,SAR,Sargeant,Williams,85613,1743386,19,False,,,1,2,12,14,17
+20,ZHO,Zhou,Sauber,85924,1746101,20,False,,,1,2,13,18,19
+21,VER,Verstappen,Red Bull,87027,1781441,1,True,1.0,22101.0,1,1,21,3,5
+21,LEC,Leclerc,Ferrari,84531,1782525,2,False,,,0,1,21,6,4
+21,PIA,Piastri,McLaren,83474,1788768,3,False,,,1,2,3,2,1
+21,SAI,Sainz,Ferrari,87324,1790305,4,True,1.0,21655.0,1,1,21,4,6
+21,NOR,Norris,McLaren,83663,1791159,5,False,,,1,2,4,1,2
+21,HAM,Hamilton,Mercedes,83470,1793298,6,False,,,1,2,5,5,3
+21,TSU,Tsunoda,RB F1 Team,85469,1801794,7,False,,,0,1,21,10,9
+21,RUS,Russell,Mercedes,85188,1804535,8,False,,,0,1,21,17,8
+21,PER,Pérez,Red Bull,85042,1805782,9,False,,,0,1,21,16,7
+21,GAS,Gasly,Alpine F1 Team,86002,1815923,10,False,,,0,1,21,0,20
+21,HUL,Hülkenberg,Haas F1 Team,85309,1818063,11,False,,,1,2,19,11,13
+21,ALO,Alonso,Aston Martin,85217,1818770,12,False,,,1,2,14,7,11
+21,STR,Stroll,Aston Martin,85063,1820044,13,False,,,1,2,7,8,10
+21,ALB,Albon,Williams,85390,1822821,14,False,,,1,2,15,13,14
+21,MAG,Magnussen,Haas F1 Team,85617,1824312,15,False,,,1,2,15,15,15
+21,RIC,Ricciardo,RB F1 Team,85573,1824936,16,False,,,1,2,14,9,12
+21,BOT,Bottas,Sauber,85457,1825467,17,False,,,1,2,5,12,16
+21,OCO,Ocon,Alpine F1 Team,85664,1827661,18,False,,,1,2,15,19,18
+21,SAR,Sargeant,Williams,85661,1829047,19,False,,,1,2,13,14,17
+21,ZHO,Zhou,Sauber,85908,1832009,20,False,,,1,2,14,18,19
+22,LEC,Leclerc,Ferrari,84471,1866996,1,False,,,0,1,22,6,4
+22,PIA,Piastri,McLaren,83267,1872035,2,False,,,1,2,4,2,1
+22,NOR,Norris,McLaren,83514,1874673,3,False,,,1,2,5,1,2
+22,HAM,Hamilton,Mercedes,83180,1876478,4,False,,,1,2,6,5,3
+22,VER,Verstappen,Red Bull,101788,1883229,5,False,,,1,2,1,3,5
+22,TSU,Tsunoda,RB F1 Team,85546,1887340,6,False,,,0,1,22,10,9
+22,RUS,Russell,Mercedes,84999,1889534,7,False,,,0,1,22,17,8
+22,PER,Pérez,Red Bull,85118,1890900,8,False,,,0,1,22,16,7
+22,SAI,Sainz,Ferrari,102164,1892469,9,False,,,1,2,1,4,6
+22,GAS,Gasly,Alpine F1 Team,85574,1901497,10,False,,,0,1,22,0,20
+22,HUL,Hülkenberg,Haas F1 Team,85417,1903480,11,False,,,1,2,20,11,13
+22,ALO,Alonso,Aston Martin,85159,1903929,12,False,,,1,2,15,7,11
+22,STR,Stroll,Aston Martin,84807,1904851,13,False,,,1,2,8,8,10
+22,ALB,Albon,Williams,85124,1907945,14,False,,,1,2,16,13,14
+22,MAG,Magnussen,Haas F1 Team,85347,1909659,15,False,,,1,2,16,15,15
+22,RIC,Ricciardo,RB F1 Team,85400,1910336,16,False,,,1,2,15,9,12
+22,BOT,Bottas,Sauber,85587,1911054,17,False,,,1,2,6,12,16
+22,OCO,Ocon,Alpine F1 Team,85475,1913136,18,False,,,1,2,16,19,18
+22,SAR,Sargeant,Williams,85628,1914675,19,False,,,1,2,14,14,17
+22,ZHO,Zhou,Sauber,85392,1917401,20,False,,,1,2,15,18,19
+23,LEC,Leclerc,Ferrari,86918,1953914,1,True,1.0,21894.0,1,1,23,6,4
+23,PIA,Piastri,McLaren,83102,1955137,2,False,,,1,2,5,2,1
+23,NOR,Norris,McLaren,83419,1958092,3,False,,,1,2,6,1,2
+23,HAM,Hamilton,Mercedes,83622,1960100,4,False,,,1,2,7,5,3
+23,VER,Verstappen,Red Bull,82769,1965998,5,False,,,1,2,2,3,5
+23,TSU,Tsunoda,RB F1 Team,85260,1972600,6,False,,,0,1,23,10,9
+23,RUS,Russell,Mercedes,84854,1974388,7,False,,,0,1,23,17,8
+23,PER,Pérez,Red Bull,85187,1976087,8,False,,,0,1,23,16,7
+23,SAI,Sainz,Ferrari,84004,1976473,9,False,,,1,2,2,4,6
+23,GAS,Gasly,Alpine F1 Team,85692,1987189,10,False,,,0,1,23,0,20
+23,HUL,Hülkenberg,Haas F1 Team,85693,1989173,11,False,,,1,2,21,11,13
+23,ALO,Alonso,Aston Martin,85898,1989827,12,False,,,1,2,16,7,11
+23,STR,Stroll,Aston Martin,85801,1990652,13,False,,,1,2,9,8,10
+23,ALB,Albon,Williams,85347,1993292,14,False,,,1,2,17,13,14
+23,MAG,Magnussen,Haas F1 Team,85654,1995313,15,False,,,1,2,17,15,15
+23,RIC,Ricciardo,RB F1 Team,85664,1996000,16,False,,,1,2,16,9,12
+23,BOT,Bottas,Sauber,85409,1996463,17,False,,,1,2,7,12,16
+23,OCO,Ocon,Alpine F1 Team,85521,1998657,18,False,,,1,2,17,19,18
+23,SAR,Sargeant,Williams,85469,2000144,19,False,,,1,2,15,14,17
+23,ZHO,Zhou,Sauber,85750,2003151,20,False,,,1,2,16,18,19
+24,PIA,Piastri,McLaren,83095,2038232,1,False,,,1,2,6,2,1
+24,NOR,Norris,McLaren,83354,2041446,2,False,,,1,2,7,1,2
+24,HAM,Hamilton,Mercedes,83698,2043798,3,False,,,1,2,8,5,3
+24,VER,Verstappen,Red Bull,82791,2048789,4,False,,,1,2,3,3,5
+24,LEC,Leclerc,Ferrari,102028,2055942,5,False,,,1,2,1,6,4
+24,TSU,Tsunoda,RB F1 Team,86283,2058883,6,False,,,0,1,24,10,9
+24,RUS,Russell,Mercedes,85414,2059802,7,False,,,0,1,24,17,8
+24,SAI,Sainz,Ferrari,83713,2060186,8,False,,,1,2,3,4,6
+24,PER,Pérez,Red Bull,86520,2062607,9,False,,,0,1,24,16,7
+24,GAS,Gasly,Alpine F1 Team,85974,2073163,10,False,,,0,1,24,0,20
+24,HUL,Hülkenberg,Haas F1 Team,85819,2074992,11,False,,,1,2,22,11,13
+24,ALO,Alonso,Aston Martin,85935,2075762,12,False,,,1,2,17,7,11
+24,STR,Stroll,Aston Martin,85558,2076210,13,False,,,1,2,10,8,10
+24,ALB,Albon,Williams,85586,2078878,14,False,,,1,2,18,13,14
+24,MAG,Magnussen,Haas F1 Team,85540,2080853,15,False,,,1,2,18,15,15
+24,RIC,Ricciardo,RB F1 Team,85611,2081611,16,False,,,1,2,17,9,12
+24,BOT,Bottas,Sauber,85655,2082118,17,False,,,1,2,8,12,16
+24,OCO,Ocon,Alpine F1 Team,85588,2084245,18,False,,,1,2,18,19,18
+24,SAR,Sargeant,Williams,85519,2085663,19,False,,,1,2,16,14,17
+24,ZHO,Zhou,Sauber,85792,2088943,20,False,,,1,2,17,18,19
+25,PIA,Piastri,McLaren,82962,2121194,1,False,,,1,2,7,2,1
+25,NOR,Norris,McLaren,83064,2124510,2,False,,,1,2,8,1,2
+25,HAM,Hamilton,Mercedes,83145,2126943,3,False,,,1,2,9,5,3
+25,VER,Verstappen,Red Bull,82782,2131571,4,False,,,1,2,4,3,5
+25,LEC,Leclerc,Ferrari,83071,2139013,5,False,,,1,2,2,6,4
+25,TSU,Tsunoda,RB F1 Team,85654,2144537,6,False,,,0,1,25,10,9
+25,SAI,Sainz,Ferrari,84612,2144798,7,False,,,1,2,4,4,6
+25,RUS,Russell,Mercedes,86712,2146514,8,False,,,0,1,25,17,8
+25,PER,Pérez,Red Bull,85370,2147977,9,False,,,0,1,25,16,7
+25,GAS,Gasly,Alpine F1 Team,85949,2159112,10,False,,,0,1,25,0,20
+25,HUL,Hülkenberg,Haas F1 Team,85639,2160631,11,False,,,1,2,23,11,13
+25,ALO,Alonso,Aston Martin,85379,2161141,12,False,,,1,2,18,7,11
+25,STR,Stroll,Aston Martin,85743,2161953,13,False,,,1,2,11,8,10
+25,ALB,Albon,Williams,85538,2164416,14,False,,,1,2,19,13,14
+25,MAG,Magnussen,Haas F1 Team,85413,2166266,15,False,,,1,2,19,15,15
+25,RIC,Ricciardo,RB F1 Team,85247,2166858,16,False,,,1,2,18,9,12
+25,BOT,Bottas,Sauber,85569,2167687,17,False,,,1,2,9,12,16
+25,OCO,Ocon,Alpine F1 Team,85529,2169774,18,False,,,1,2,19,19,18
+25,SAR,Sargeant,Williams,85535,2171198,19,False,,,1,2,17,14,17
+25,ZHO,Zhou,Sauber,85524,2174467,20,False,,,1,2,18,18,19
+26,PIA,Piastri,McLaren,82654,2203848,1,False,,,1,2,8,2,1
+26,NOR,Norris,McLaren,83013,2207523,2,False,,,1,2,9,1,2
+26,HAM,Hamilton,Mercedes,83334,2210277,3,False,,,1,2,10,5,3
+26,VER,Verstappen,Red Bull,82716,2214287,4,False,,,1,2,5,3,5
+26,LEC,Leclerc,Ferrari,83296,2222309,5,False,,,1,2,3,6,4
+26,SAI,Sainz,Ferrari,83925,2228723,6,False,,,1,2,5,4,6
+26,TSU,Tsunoda,RB F1 Team,86937,2231474,7,False,,,0,1,26,10,9
+26,RUS,Russell,Mercedes,85773,2232287,8,False,,,0,1,26,17,8
+26,PER,Pérez,Red Bull,85680,2233657,9,False,,,0,1,26,16,7
+26,GAS,Gasly,Alpine F1 Team,85873,2244985,10,False,,,0,1,26,0,20
+26,HUL,Hülkenberg,Haas F1 Team,85994,2246625,11,False,,,1,2,24,11,13
+26,ALO,Alonso,Aston Martin,85889,2247030,12,False,,,1,2,19,7,11
+26,STR,Stroll,Aston Martin,85992,2247945,13,False,,,1,2,12,8,10
+26,ALB,Albon,Williams,85840,2250256,14,False,,,1,2,20,13,14
+26,MAG,Magnussen,Haas F1 Team,85776,2252042,15,False,,,1,2,20,15,15
+26,RIC,Ricciardo,RB F1 Team,85689,2252547,16,False,,,1,2,19,9,12
+26,BOT,Bottas,Sauber,85639,2253326,17,False,,,1,2,10,12,16
+26,OCO,Ocon,Alpine F1 Team,85458,2255232,18,False,,,1,2,20,19,18
+26,SAR,Sargeant,Williams,85306,2256504,19,False,,,1,2,18,14,17
+26,ZHO,Zhou,Sauber,85483,2259950,20,False,,,1,2,19,18,19
+27,PIA,Piastri,McLaren,82747,2286595,1,False,,,1,2,9,2,1
+27,NOR,Norris,McLaren,82872,2290395,2,False,,,1,2,10,1,2
+27,HAM,Hamilton,Mercedes,83481,2293758,3,False,,,1,2,11,5,3
+27,VER,Verstappen,Red Bull,82655,2296942,4,False,,,1,2,6,3,5
+27,LEC,Leclerc,Ferrari,82892,2305201,5,False,,,1,2,4,6,4
+27,SAI,Sainz,Ferrari,83226,2311949,6,False,,,1,2,6,4,6
+27,TSU,Tsunoda,RB F1 Team,85762,2317236,7,False,,,0,1,27,10,9
+27,RUS,Russell,Mercedes,85647,2317934,8,False,,,0,1,27,17,8
+27,PER,Pérez,Red Bull,85554,2319211,9,False,,,0,1,27,16,7
+27,GAS,Gasly,Alpine F1 Team,86206,2331191,10,False,,,0,1,27,0,20
+27,ALO,Alonso,Aston Martin,84703,2331733,11,False,,,1,2,20,7,11
+27,HUL,Hülkenberg,Haas F1 Team,87222,2333847,12,False,,,1,2,25,11,13
+27,STR,Stroll,Aston Martin,86225,2334170,13,False,,,1,2,13,8,10
+27,ALB,Albon,Williams,85857,2336113,14,False,,,1,2,21,13,14
+27,MAG,Magnussen,Haas F1 Team,85721,2337763,15,False,,,1,2,21,15,15
+27,RIC,Ricciardo,RB F1 Team,85931,2338478,16,False,,,1,2,20,9,12
+27,BOT,Bottas,Sauber,85775,2339101,17,False,,,1,2,11,12,16
+27,OCO,Ocon,Alpine F1 Team,85665,2340897,18,False,,,1,2,21,19,18
+27,SAR,Sargeant,Williams,85503,2342007,19,False,,,1,2,19,14,17
+27,ZHO,Zhou,Sauber,85396,2345346,20,False,,,1,2,20,18,19
+28,PIA,Piastri,McLaren,82790,2369385,1,False,,,1,2,10,2,1
+28,NOR,Norris,McLaren,82861,2373256,2,False,,,1,2,11,1,2
+28,HAM,Hamilton,Mercedes,83306,2377064,3,False,,,1,2,12,5,3
+28,VER,Verstappen,Red Bull,82763,2379705,4,False,,,1,2,7,3,5
+28,LEC,Leclerc,Ferrari,82359,2387560,5,False,,,1,2,5,6,4
+28,SAI,Sainz,Ferrari,82908,2394857,6,False,,,1,2,7,4,6
+28,TSU,Tsunoda,RB F1 Team,85787,2403023,7,False,,,0,1,28,10,9
+28,RUS,Russell,Mercedes,85819,2403753,8,False,,,0,1,28,17,8
+28,PER,Pérez,Red Bull,88128,2407339,9,True,1.0,21395.0,1,1,28,16,7
+28,ALO,Alonso,Aston Martin,86242,2417975,10,False,,,1,2,21,7,11
+28,STR,Stroll,Aston Martin,84903,2419073,11,False,,,1,2,14,8,10
+28,GAS,Gasly,Alpine F1 Team,88972,2420163,12,True,1.0,21405.0,1,1,28,0,20
+28,HUL,Hülkenberg,Haas F1 Team,87011,2420858,13,False,,,1,2,26,11,13
+28,ALB,Albon,Williams,86009,2422122,14,False,,,1,2,22,13,14
+28,MAG,Magnussen,Haas F1 Team,86022,2423785,15,False,,,1,2,22,15,15
+28,BOT,Bottas,Sauber,85720,2424821,16,False,,,1,2,12,12,16
+28,RIC,Ricciardo,RB F1 Team,88132,2426610,17,True,2.0,21378.0,2,2,21,9,12
+28,OCO,Ocon,Alpine F1 Team,85795,2426692,18,False,,,1,2,22,19,18
+28,SAR,Sargeant,Williams,85400,2427407,19,False,,,1,2,20,14,17
+28,ZHO,Zhou,Sauber,85696,2431042,20,False,,,1,2,21,18,19
+29,PIA,Piastri,McLaren,82704,2452089,1,False,,,1,2,11,2,1
+29,NOR,Norris,McLaren,82820,2456076,2,False,,,1,2,12,1,2
+29,HAM,Hamilton,Mercedes,83342,2460406,3,False,,,1,2,13,5,3
+29,VER,Verstappen,Red Bull,82807,2462512,4,False,,,1,2,8,3,5
+29,LEC,Leclerc,Ferrari,82182,2469742,5,False,,,1,2,6,6,4
+29,SAI,Sainz,Ferrari,82918,2477775,6,False,,,1,2,8,4,6
+29,RUS,Russell,Mercedes,85977,2489730,7,False,,,0,1,29,17,8
+29,TSU,Tsunoda,RB F1 Team,88185,2491208,8,True,1.0,21467.0,1,1,29,10,9
+29,ALO,Alonso,Aston Martin,83792,2501767,9,False,,,1,2,22,7,11
+29,STR,Stroll,Aston Martin,84409,2503482,10,False,,,1,2,15,8,10
+29,HUL,Hülkenberg,Haas F1 Team,87890,2508748,11,True,2.0,22472.0,2,2,27,11,13
+29,MAG,Magnussen,Haas F1 Team,85615,2509400,12,False,,,1,2,23,15,15
+29,BOT,Bottas,Sauber,85096,2509917,13,False,,,1,2,13,12,16
+29,PER,Pérez,Red Bull,102686,2510025,14,False,,,1,2,1,16,7
+29,ALB,Albon,Williams,87968,2510090,15,True,2.0,23410.0,2,2,23,13,14
+29,OCO,Ocon,Alpine F1 Team,85994,2512686,16,False,,,1,2,23,19,18
+29,SAR,Sargeant,Williams,85926,2513333,17,False,,,1,2,21,14,17
+29,ZHO,Zhou,Sauber,85689,2516731,18,False,,,1,2,22,18,19
+29,GAS,Gasly,Alpine F1 Team,101671,2521834,19,False,,,1,2,1,0,20
+29,RIC,Ricciardo,RB F1 Team,99927,2526537,20,False,,,2,3,1,9,12
+30,PIA,Piastri,McLaren,83041,2535130,1,False,,,1,2,12,2,1
+30,NOR,Norris,McLaren,83323,2539399,2,False,,,1,2,13,1,2
+30,HAM,Hamilton,Mercedes,83485,2543891,3,False,,,1,2,14,5,3
+30,VER,Verstappen,Red Bull,83150,2545662,4,False,,,1,2,9,3,5
+30,LEC,Leclerc,Ferrari,82700,2552442,5,False,,,1,2,7,6,4
+30,SAI,Sainz,Ferrari,83017,2560792,6,False,,,1,2,9,4,6
+30,RUS,Russell,Mercedes,84762,2574492,7,False,,,0,1,30,17,8
+30,ALO,Alonso,Aston Martin,84341,2586108,8,False,,,1,2,23,7,11
+30,STR,Stroll,Aston Martin,84176,2587658,9,False,,,1,2,16,8,10
+30,TSU,Tsunoda,RB F1 Team,101656,2592864,10,False,,,1,2,1,10,9
+30,MAG,Magnussen,Haas F1 Team,85859,2595259,11,False,,,1,2,24,15,15
+30,PER,Pérez,Red Bull,85518,2595543,12,False,,,1,2,2,16,7
+30,BOT,Bottas,Sauber,86551,2596468,13,False,,,1,2,14,12,16
+30,SAR,Sargeant,Williams,85921,2599254,14,False,,,1,2,22,14,17
+30,OCO,Ocon,Alpine F1 Team,88594,2601280,15,True,2.0,21444.0,2,2,24,19,18
+30,ZHO,Zhou,Sauber,85667,2602398,16,False,,,1,2,23,18,19
+30,GAS,Gasly,Alpine F1 Team,83446,2605280,17,False,,,1,2,2,0,20
+30,RIC,Ricciardo,RB F1 Team,82640,2609177,18,False,,,2,3,2,9,12
+30,HUL,Hülkenberg,Haas F1 Team,102766,2611514,19,False,,,2,3,1,11,13
+30,ALB,Albon,Williams,103736,2613826,20,False,,,2,3,1,13,14
+31,PIA,Piastri,McLaren,83172,2618302,1,False,,,1,2,13,2,1
+31,NOR,Norris,McLaren,83247,2622646,2,False,,,1,2,14,1,2
+31,HAM,Hamilton,Mercedes,83585,2627476,3,False,,,1,2,15,5,3
+31,VER,Verstappen,Red Bull,83416,2629078,4,False,,,1,2,10,3,5
+31,LEC,Leclerc,Ferrari,82776,2635218,5,False,,,1,2,8,6,4
+31,SAI,Sainz,Ferrari,82930,2643722,6,False,,,1,2,10,4,6
+31,RUS,Russell,Mercedes,85077,2659569,7,False,,,0,1,31,17,8
+31,ALO,Alonso,Aston Martin,84322,2670430,8,False,,,1,2,24,7,11
+31,STR,Stroll,Aston Martin,84439,2672097,9,False,,,1,2,17,8,10
+31,TSU,Tsunoda,RB F1 Team,83848,2676712,10,False,,,1,2,2,10,9
+31,PER,Pérez,Red Bull,82613,2678156,11,False,,,1,2,3,16,7
+31,MAG,Magnussen,Haas F1 Team,86219,2681478,12,False,,,1,2,25,15,15
+31,BOT,Bottas,Sauber,85593,2682061,13,False,,,1,2,15,12,16
+31,SAR,Sargeant,Williams,85494,2684748,14,False,,,1,2,23,14,17
+31,ZHO,Zhou,Sauber,85594,2687992,15,False,,,1,2,24,18,19
+31,GAS,Gasly,Alpine F1 Team,83340,2688620,16,False,,,1,2,3,0,20
+31,RIC,Ricciardo,RB F1 Team,83098,2692275,17,False,,,2,3,3,9,12
+31,HUL,Hülkenberg,Haas F1 Team,83925,2695439,18,False,,,2,3,2,11,13
+31,ALB,Albon,Williams,83930,2697756,19,False,,,2,3,2,13,14
+31,OCO,Ocon,Alpine F1 Team,101704,2702984,20,False,,,2,3,1,19,18
+32,PIA,Piastri,McLaren,83397,2701699,1,False,,,1,2,14,2,1
+32,NOR,Norris,McLaren,83456,2706102,2,False,,,1,2,15,1,2
+32,HAM,Hamilton,Mercedes,83532,2711008,3,False,,,1,2,16,5,3
+32,VER,Verstappen,Red Bull,83134,2712212,4,False,,,1,2,11,3,5
+32,LEC,Leclerc,Ferrari,82795,2718013,5,False,,,1,2,9,6,4
+32,SAI,Sainz,Ferrari,83048,2726770,6,False,,,1,2,11,4,6
+32,RUS,Russell,Mercedes,85407,2744976,7,False,,,0,1,32,17,8
+32,ALO,Alonso,Aston Martin,84056,2754486,8,False,,,1,2,25,7,11
+32,STR,Stroll,Aston Martin,84233,2756330,9,False,,,1,2,18,8,10
+32,TSU,Tsunoda,RB F1 Team,83745,2760457,10,False,,,1,2,3,10,9
+32,PER,Pérez,Red Bull,82822,2760978,11,False,,,1,2,4,16,7
+32,MAG,Magnussen,Haas F1 Team,85570,2767048,12,False,,,1,2,26,15,15
+32,BOT,Bottas,Sauber,85438,2767499,13,False,,,1,2,16,12,16
+32,SAR,Sargeant,Williams,85437,2770185,14,False,,,1,2,24,14,17
+32,GAS,Gasly,Alpine F1 Team,83484,2772104,15,False,,,1,2,4,0,20
+32,ZHO,Zhou,Sauber,86575,2774567,16,False,,,1,2,25,18,19
+32,RIC,Ricciardo,RB F1 Team,83611,2775886,17,False,,,2,3,4,9,12
+32,HUL,Hülkenberg,Haas F1 Team,83765,2779204,18,False,,,2,3,3,11,13
+32,ALB,Albon,Williams,84035,2781791,19,False,,,2,3,3,13,14
+32,OCO,Ocon,Alpine F1 Team,84938,2787922,20,False,,,2,3,2,19,18
+33,PIA,Piastri,McLaren,85863,2787562,1,False,,,1,2,15,2,1
+33,NOR,Norris,McLaren,83992,2790094,2,False,,,1,2,16,1,2
+33,HAM,Hamilton,Mercedes,84117,2795125,3,False,,,1,2,17,5,3
+33,VER,Verstappen,Red Bull,83585,2795797,4,False,,,1,2,12,3,5
+33,LEC,Leclerc,Ferrari,83066,2801079,5,False,,,1,2,10,6,4
+33,SAI,Sainz,Ferrari,83269,2810039,6,False,,,1,2,12,4,6
+33,RUS,Russell,Mercedes,88191,2833167,7,True,1.0,21369.0,1,1,33,17,8
+33,ALO,Alonso,Aston Martin,84402,2838888,8,False,,,1,2,26,7,11
+33,STR,Stroll,Aston Martin,84743,2841073,9,False,,,1,2,19,8,10
+33,PER,Pérez,Red Bull,82536,2843514,10,False,,,1,2,5,16,7
+33,TSU,Tsunoda,RB F1 Team,85200,2845657,11,False,,,1,2,4,10,9
+33,MAG,Magnussen,Haas F1 Team,85419,2852467,12,False,,,1,2,27,15,15
+33,BOT,Bottas,Sauber,85546,2853045,13,False,,,1,2,17,12,16
+33,SAR,Sargeant,Williams,88010,2858195,14,True,2.0,21398.0,2,2,25,14,17
+33,GAS,Gasly,Alpine F1 Team,87151,2859255,15,False,,,1,2,5,0,20
+33,ZHO,Zhou,Sauber,86843,2861410,16,False,,,1,2,26,18,19
+33,RIC,Ricciardo,RB F1 Team,85787,2861673,17,False,,,2,3,5,9,12
+33,HUL,Hülkenberg,Haas F1 Team,84096,2863300,18,False,,,2,3,4,11,13
+33,ALB,Albon,Williams,84029,2865820,19,False,,,2,3,4,13,14
+33,OCO,Ocon,Alpine F1 Team,87017,2874939,20,False,,,2,3,3,19,18
+34,PIA,Piastri,McLaren,84729,2872291,1,False,,,1,2,16,2,1
+34,NOR,Norris,McLaren,84154,2874248,2,False,,,1,2,17,1,2
+34,HAM,Hamilton,Mercedes,84355,2879480,3,False,,,1,2,18,5,3
+34,VER,Verstappen,Red Bull,84275,2880072,4,False,,,1,2,13,3,5
+34,LEC,Leclerc,Ferrari,83207,2884286,5,False,,,1,2,11,6,4
+34,SAI,Sainz,Ferrari,83489,2893528,6,False,,,1,2,13,4,6
+34,ALO,Alonso,Aston Martin,84709,2923597,7,False,,,1,2,27,7,11
+34,STR,Stroll,Aston Martin,84849,2925922,8,False,,,1,2,20,8,10
+34,PER,Pérez,Red Bull,82938,2926452,9,False,,,1,2,6,16,7
+34,TSU,Tsunoda,RB F1 Team,84094,2929751,10,False,,,1,2,5,10,9
+34,RUS,Russell,Mercedes,100210,2933377,11,False,,,1,2,1,17,8
+34,BOT,Bottas,Sauber,85610,2938655,12,False,,,1,2,18,12,16
+34,MAG,Magnussen,Haas F1 Team,88105,2940572,13,True,2.0,22531.0,2,2,28,15,15
+34,RIC,Ricciardo,RB F1 Team,83826,2945499,14,False,,,2,3,6,9,12
+34,ZHO,Zhou,Sauber,87856,2949266,15,False,,,1,2,27,18,19
+34,HUL,Hülkenberg,Haas F1 Team,86129,2949429,16,False,,,2,3,5,11,13
+34,ALB,Albon,Williams,84261,2950081,17,False,,,2,3,5,13,14
+34,OCO,Ocon,Alpine F1 Team,84527,2959466,18,False,,,2,3,4,19,18
+34,SAR,Sargeant,Williams,101910,2960105,19,False,,,2,3,1,14,17
+35,PIA,Piastri,McLaren,84557,2956848,1,False,,,1,2,17,2,1
+35,NOR,Norris,McLaren,84200,2958448,2,False,,,1,2,18,1,2
+35,HAM,Hamilton,Mercedes,85120,2964600,3,False,,,1,2,19,5,3
+35,VER,Verstappen,Red Bull,85757,2965829,4,False,,,1,2,14,3,5
+35,LEC,Leclerc,Ferrari,83845,2968131,5,False,,,1,2,12,6,4
+35,SAI,Sainz,Ferrari,83769,2977297,6,False,,,1,2,14,4,6
+35,ALO,Alonso,Aston Martin,84710,3008307,7,False,,,1,2,28,7,11
+35,STR,Stroll,Aston Martin,84497,3010419,8,False,,,1,2,21,8,10
+35,PER,Pérez,Red Bull,84416,3010868,9,False,,,1,2,7,16,7
+35,TSU,Tsunoda,RB F1 Team,84079,3013830,10,False,,,1,2,6,10,9
+35,RUS,Russell,Mercedes,82516,3015893,11,False,,,1,2,2,17,8
+35,BOT,Bottas,Sauber,83887,3022542,12,False,,,1,2,19,12,16
+35,RIC,Ricciardo,RB F1 Team,83656,3029155,13,False,,,2,3,7,9,12
+35,HUL,Hülkenberg,Haas F1 Team,83794,3033223,14,False,,,2,3,6,11,13
+35,ALB,Albon,Williams,84765,3034846,15,False,,,2,3,6,13,14
+35,ZHO,Zhou,Sauber,88287,3037553,16,False,,,1,2,28,18,19
+35,MAG,Magnussen,Haas F1 Team,103404,3043976,17,False,,,2,3,1,15,15
+35,OCO,Ocon,Alpine F1 Team,85276,3044742,18,False,,,2,3,5,19,18
+35,SAR,Sargeant,Williams,85047,3045152,19,False,,,2,3,2,14,17
+36,PIA,Piastri,McLaren,84193,3041041,1,False,,,1,2,18,2,1
+36,NOR,Norris,McLaren,84096,3042544,2,False,,,1,2,19,1,2
+36,HAM,Hamilton,Mercedes,84527,3049127,3,False,,,1,2,20,5,3
+36,VER,Verstappen,Red Bull,84080,3049909,4,False,,,1,2,15,3,5
+36,LEC,Leclerc,Ferrari,84123,3052254,5,False,,,1,2,13,6,4
+36,SAI,Sainz,Ferrari,83779,3061076,6,False,,,1,2,15,4,6
+36,ALO,Alonso,Aston Martin,84698,3093005,7,False,,,1,2,29,7,11
+36,PER,Pérez,Red Bull,82922,3093790,8,False,,,1,2,8,16,7
+36,STR,Stroll,Aston Martin,85800,3096219,9,False,,,1,2,22,8,10
+36,TSU,Tsunoda,RB F1 Team,84670,3098500,10,False,,,1,2,7,10,9
+36,RUS,Russell,Mercedes,82852,3098745,11,False,,,1,2,3,17,8
+36,BOT,Bottas,Sauber,84677,3107219,12,False,,,1,2,20,12,16
+36,RIC,Ricciardo,RB F1 Team,83643,3112798,13,False,,,2,3,8,9,12
+36,HUL,Hülkenberg,Haas F1 Team,84046,3117269,14,False,,,2,3,7,11,13
+36,ALB,Albon,Williams,84432,3119278,15,False,,,2,3,7,13,14
+36,ZHO,Zhou,Sauber,89150,3126703,16,True,2.0,22183.0,2,2,29,18,19
+36,MAG,Magnussen,Haas F1 Team,84037,3128013,17,False,,,2,3,2,15,15
+36,OCO,Ocon,Alpine F1 Team,84109,3128851,18,False,,,2,3,6,19,18
+36,SAR,Sargeant,Williams,84315,3129467,19,False,,,2,3,3,14,17
+37,PIA,Piastri,McLaren,84384,3125425,1,False,,,1,2,19,2,1
+37,NOR,Norris,McLaren,84254,3126798,2,False,,,1,2,20,1,2
+37,HAM,Hamilton,Mercedes,84655,3133782,3,False,,,1,2,21,5,3
+37,VER,Verstappen,Red Bull,84491,3134400,4,False,,,1,2,16,3,5
+37,LEC,Leclerc,Ferrari,84077,3136331,5,False,,,1,2,14,6,4
+37,SAI,Sainz,Ferrari,83981,3145057,6,False,,,1,2,16,4,6
+37,PER,Pérez,Red Bull,84500,3178290,7,False,,,1,2,9,16,7
+37,ALO,Alonso,Aston Martin,87324,3180329,8,True,2.0,21800.0,2,2,30,7,11
+37,STR,Stroll,Aston Martin,84940,3181159,9,False,,,1,2,23,8,10
+37,RUS,Russell,Mercedes,82830,3181575,10,False,,,1,2,4,17,8
+37,TSU,Tsunoda,RB F1 Team,85245,3183745,11,False,,,1,2,8,10,9
+37,BOT,Bottas,Sauber,84825,3192044,12,False,,,1,2,21,12,16
+37,RIC,Ricciardo,RB F1 Team,83689,3196487,13,False,,,2,3,9,9,12
+37,HUL,Hülkenberg,Haas F1 Team,84020,3201289,14,False,,,2,3,8,11,13
+37,ALB,Albon,Williams,84292,3203570,15,False,,,2,3,8,13,14
+37,MAG,Magnussen,Haas F1 Team,84116,3212129,16,False,,,2,3,3,15,15
+37,OCO,Ocon,Alpine F1 Team,84181,3213032,17,False,,,2,3,7,19,18
+37,SAR,Sargeant,Williams,84238,3213705,18,False,,,2,3,4,14,17
+37,ZHO,Zhou,Sauber,103928,3230631,19,False,,,2,3,1,18,19
+38,PIA,Piastri,McLaren,84171,3209596,1,False,,,1,2,20,2,1
+38,NOR,Norris,McLaren,84154,3210952,2,False,,,1,2,21,1,2
+38,HAM,Hamilton,Mercedes,85372,3219154,3,False,,,1,2,22,5,3
+38,VER,Verstappen,Red Bull,85536,3219936,4,False,,,1,2,17,3,5
+38,LEC,Leclerc,Ferrari,84912,3221243,5,False,,,1,2,15,6,4
+38,SAI,Sainz,Ferrari,83695,3228752,6,False,,,1,2,17,4,6
+38,PER,Pérez,Red Bull,82197,3260487,7,False,,,1,2,10,16,7
+38,RUS,Russell,Mercedes,82814,3264389,8,False,,,1,2,5,17,8
+38,STR,Stroll,Aston Martin,85623,3266782,9,False,,,1,2,24,8,10
+38,TSU,Tsunoda,RB F1 Team,84513,3268258,10,False,,,1,2,9,10,9
+38,BOT,Bottas,Sauber,84954,3276998,11,False,,,1,2,22,12,16
+38,RIC,Ricciardo,RB F1 Team,84005,3280492,12,False,,,2,3,10,9,12
+38,ALO,Alonso,Aston Martin,100829,3281158,13,False,,,2,3,1,7,11
+38,HUL,Hülkenberg,Haas F1 Team,84033,3285322,14,False,,,2,3,9,11,13
+38,ALB,Albon,Williams,84148,3287718,15,False,,,2,3,9,13,14
+38,MAG,Magnussen,Haas F1 Team,84186,3296315,16,False,,,2,3,4,15,15
+38,OCO,Ocon,Alpine F1 Team,84224,3297256,17,False,,,2,3,8,19,18
+38,SAR,Sargeant,Williams,84221,3297926,18,False,,,2,3,5,14,17
+38,ZHO,Zhou,Sauber,83487,3314118,19,False,,,2,3,2,18,19
+39,PIA,Piastri,McLaren,84240,3293836,1,False,,,1,2,21,2,1
+39,NOR,Norris,McLaren,84186,3295138,2,False,,,1,2,22,1,2
+39,HAM,Hamilton,Mercedes,84801,3303955,3,False,,,1,2,23,5,3
+39,VER,Verstappen,Red Bull,84675,3304611,4,False,,,1,2,18,3,5
+39,LEC,Leclerc,Ferrari,84452,3305695,5,False,,,1,2,16,6,4
+39,SAI,Sainz,Ferrari,83557,3312309,6,False,,,1,2,18,4,6
+39,PER,Pérez,Red Bull,82752,3343239,7,False,,,1,2,11,16,7
+39,RUS,Russell,Mercedes,82275,3346664,8,False,,,1,2,6,17,8
+39,STR,Stroll,Aston Martin,84328,3351110,9,False,,,1,2,25,8,10
+39,TSU,Tsunoda,RB F1 Team,84631,3352889,10,False,,,1,2,10,10,9
+39,BOT,Bottas,Sauber,85136,3362134,11,False,,,1,2,23,12,16
+39,ALO,Alonso,Aston Martin,83576,3364734,12,False,,,2,3,2,7,11
+39,RIC,Ricciardo,RB F1 Team,85353,3365845,13,False,,,2,3,11,9,12
+39,HUL,Hülkenberg,Haas F1 Team,84212,3369534,14,False,,,2,3,10,11,13
+39,ALB,Albon,Williams,84249,3371967,15,False,,,2,3,10,13,14
+39,MAG,Magnussen,Haas F1 Team,84179,3380494,16,False,,,2,3,5,15,15
+39,OCO,Ocon,Alpine F1 Team,84426,3381682,17,False,,,2,3,9,19,18
+39,SAR,Sargeant,Williams,84497,3382423,18,False,,,2,3,6,14,17
+39,ZHO,Zhou,Sauber,84258,3398376,19,False,,,2,3,3,18,19
+40,PIA,Piastri,McLaren,83760,3377596,1,False,,,1,2,22,2,1
+40,NOR,Norris,McLaren,84080,3379218,2,False,,,1,2,23,1,2
+40,VER,Verstappen,Red Bull,85005,3389616,3,False,,,1,2,19,3,5
+40,HAM,Hamilton,Mercedes,87733,3391688,4,True,2.0,21910.0,2,2,24,5,3
+40,LEC,Leclerc,Ferrari,87274,3392969,5,True,2.0,21723.0,2,2,17,6,4
+40,SAI,Sainz,Ferrari,84070,3396379,6,False,,,1,2,19,4,6
+40,PER,Pérez,Red Bull,82577,3425816,7,False,,,1,2,12,16,7
+40,RUS,Russell,Mercedes,82211,3428875,8,False,,,1,2,7,17,8
+40,STR,Stroll,Aston Martin,84379,3435489,9,False,,,1,2,26,8,10
+40,TSU,Tsunoda,RB F1 Team,84271,3437160,10,False,,,1,2,11,10,9
+40,BOT,Bottas,Sauber,84973,3447107,11,False,,,1,2,24,12,16
+40,ALO,Alonso,Aston Martin,83791,3448525,12,False,,,2,3,3,7,11
+40,RIC,Ricciardo,RB F1 Team,84046,3449891,13,False,,,2,3,12,9,12
+40,HUL,Hülkenberg,Haas F1 Team,84307,3453841,14,False,,,2,3,11,11,13
+40,ALB,Albon,Williams,84285,3456252,15,False,,,2,3,11,13,14
+40,MAG,Magnussen,Haas F1 Team,84131,3464625,16,False,,,2,3,6,15,15
+40,OCO,Ocon,Alpine F1 Team,84220,3465902,17,False,,,2,3,10,19,18
+40,SAR,Sargeant,Williams,84323,3466746,18,False,,,2,3,7,14,17
+40,ZHO,Zhou,Sauber,84367,3482743,19,False,,,2,3,4,18,19
+41,PIA,Piastri,McLaren,83950,3461546,1,False,,,1,2,23,2,1
+41,NOR,Norris,McLaren,84189,3463407,2,False,,,1,2,24,1,2
+41,VER,Verstappen,Red Bull,83221,3472837,3,False,,,1,2,20,3,5
+41,SAI,Sainz,Ferrari,83876,3480255,4,False,,,1,2,20,4,6
+41,HAM,Hamilton,Mercedes,101018,3492706,5,False,,,2,3,1,5,3
+41,LEC,Leclerc,Ferrari,100816,3493785,6,False,,,2,3,1,6,4
+41,PER,Pérez,Red Bull,82905,3508721,7,False,,,1,2,13,16,7
+41,RUS,Russell,Mercedes,82610,3511485,8,False,,,1,2,8,17,8
+41,STR,Stroll,Aston Martin,84445,3519934,9,False,,,1,2,27,8,10
+41,TSU,Tsunoda,RB F1 Team,84412,3521572,10,False,,,1,2,12,10,9
+41,BOT,Bottas,Sauber,85082,3532189,11,False,,,1,2,25,12,16
+41,ALO,Alonso,Aston Martin,83903,3532428,12,False,,,2,3,4,7,11
+41,RIC,Ricciardo,RB F1 Team,84337,3534228,13,False,,,2,3,13,9,12
+41,HUL,Hülkenberg,Haas F1 Team,84178,3538019,14,False,,,2,3,12,11,13
+41,ALB,Albon,Williams,84311,3540563,15,False,,,2,3,12,13,14
+41,MAG,Magnussen,Haas F1 Team,84129,3548754,16,False,,,2,3,7,15,15
+41,OCO,Ocon,Alpine F1 Team,84244,3550146,17,False,,,2,3,11,19,18
+41,SAR,Sargeant,Williams,84279,3551025,18,False,,,2,3,8,14,17
+41,ZHO,Zhou,Sauber,84328,3567071,19,False,,,2,3,5,18,19
+42,PIA,Piastri,McLaren,84071,3545617,1,False,,,1,2,24,2,1
+42,NOR,Norris,McLaren,84001,3547408,2,False,,,1,2,25,1,2
+42,VER,Verstappen,Red Bull,83392,3556229,3,False,,,1,2,21,3,5
+42,SAI,Sainz,Ferrari,83654,3563909,4,False,,,1,2,21,4,6
+42,HAM,Hamilton,Mercedes,82518,3575224,5,False,,,2,3,2,5,3
+42,LEC,Leclerc,Ferrari,82762,3576547,6,False,,,2,3,2,6,4
+42,PER,Pérez,Red Bull,82539,3591260,7,False,,,1,2,14,16,7
+42,RUS,Russell,Mercedes,82569,3594054,8,False,,,1,2,9,17,8
+42,STR,Stroll,Aston Martin,84463,3604397,9,False,,,1,2,28,8,10
+42,TSU,Tsunoda,RB F1 Team,84340,3605912,10,False,,,1,2,13,10,9
+42,ALO,Alonso,Aston Martin,83460,3615888,11,False,,,2,3,5,7,11
+42,BOT,Bottas,Sauber,85871,3618060,12,False,,,1,2,26,12,16
+42,RIC,Ricciardo,RB F1 Team,84481,3618709,13,False,,,2,3,14,9,12
+42,HUL,Hülkenberg,Haas F1 Team,84037,3622056,14,False,,,2,3,13,11,13
+42,ALB,Albon,Williams,84048,3624611,15,False,,,2,3,13,13,14
+42,MAG,Magnussen,Haas F1 Team,83930,3632684,16,False,,,2,3,8,15,15
+42,OCO,Ocon,Alpine F1 Team,84237,3634383,17,False,,,2,3,12,19,18
+42,SAR,Sargeant,Williams,84155,3635180,18,False,,,2,3,9,14,17
+42,ZHO,Zhou,Sauber,83699,3650770,19,False,,,2,3,6,18,19
+43,PIA,Piastri,McLaren,84200,3629817,1,False,,,1,2,25,2,1
+43,NOR,Norris,McLaren,84063,3631471,2,False,,,1,2,26,1,2
+43,VER,Verstappen,Red Bull,83393,3639622,3,False,,,1,2,22,3,5
+43,SAI,Sainz,Ferrari,83874,3647783,4,False,,,1,2,22,4,6
+43,HAM,Hamilton,Mercedes,83074,3658298,5,False,,,2,3,3,5,3
+43,LEC,Leclerc,Ferrari,82967,3659514,6,False,,,2,3,3,6,4
+43,PER,Pérez,Red Bull,82731,3673991,7,False,,,1,2,15,16,7
+43,RUS,Russell,Mercedes,82908,3676962,8,False,,,1,2,10,17,8
+43,STR,Stroll,Aston Martin,84594,3688991,9,False,,,1,2,29,8,10
+43,TSU,Tsunoda,RB F1 Team,84583,3690495,10,False,,,1,2,14,10,9
+43,ALO,Alonso,Aston Martin,84047,3699935,11,False,,,2,3,6,7,11
+43,BOT,Bottas,Sauber,85395,3703455,12,False,,,1,2,27,12,16
+43,RIC,Ricciardo,RB F1 Team,85182,3703891,13,False,,,2,3,15,9,12
+43,HUL,Hülkenberg,Haas F1 Team,84366,3706422,14,False,,,2,3,14,11,13
+43,ALB,Albon,Williams,84127,3708738,15,False,,,2,3,14,13,14
+43,MAG,Magnussen,Haas F1 Team,84561,3717245,16,False,,,2,3,9,15,15
+43,OCO,Ocon,Alpine F1 Team,84451,3718834,17,False,,,2,3,13,19,18
+43,SAR,Sargeant,Williams,84359,3719539,18,False,,,2,3,10,14,17
+43,ZHO,Zhou,Sauber,84215,3734985,19,False,,,2,3,7,18,19
+44,PIA,Piastri,McLaren,84033,3713850,1,False,,,1,2,26,2,1
+44,NOR,Norris,McLaren,84430,3715901,2,False,,,1,2,27,1,2
+44,VER,Verstappen,Red Bull,83717,3723339,3,False,,,1,2,23,3,5
+44,SAI,Sainz,Ferrari,84093,3731876,4,False,,,1,2,23,4,6
+44,HAM,Hamilton,Mercedes,83133,3741431,5,False,,,2,3,4,5,3
+44,LEC,Leclerc,Ferrari,83186,3742700,6,False,,,2,3,4,6,4
+44,PER,Pérez,Red Bull,82923,3756914,7,False,,,1,2,16,16,7
+44,RUS,Russell,Mercedes,82863,3759825,8,False,,,1,2,11,17,8
+44,STR,Stroll,Aston Martin,84749,3773740,9,False,,,1,2,30,8,10
+44,TSU,Tsunoda,RB F1 Team,84591,3775086,10,False,,,1,2,15,10,9
+44,ALO,Alonso,Aston Martin,84076,3784011,11,False,,,2,3,7,7,11
+44,RIC,Ricciardo,RB F1 Team,83982,3787873,12,False,,,2,3,16,9,12
+44,BOT,Bottas,Sauber,86967,3790422,13,False,,,1,2,28,12,16
+44,HUL,Hülkenberg,Haas F1 Team,84676,3791098,14,False,,,2,3,15,11,13
+44,ALB,Albon,Williams,84795,3793533,15,False,,,2,3,15,13,14
+44,MAG,Magnussen,Haas F1 Team,84420,3801665,16,False,,,2,3,10,15,15
+44,OCO,Ocon,Alpine F1 Team,84381,3803215,17,False,,,2,3,14,19,18
+44,SAR,Sargeant,Williams,84716,3804255,18,False,,,2,3,11,14,17
+44,ZHO,Zhou,Sauber,84212,3819197,19,False,,,2,3,8,18,19
+45,PIA,Piastri,McLaren,84104,3797954,1,False,,,1,2,27,2,1
+45,NOR,Norris,McLaren,86328,3802229,2,True,2.0,21249.0,2,2,28,1,2
+45,VER,Verstappen,Red Bull,83827,3807166,3,False,,,1,2,24,3,5
+45,SAI,Sainz,Ferrari,84116,3815992,4,False,,,1,2,24,4,6
+45,HAM,Hamilton,Mercedes,82969,3824400,5,False,,,2,3,5,5,3
+45,LEC,Leclerc,Ferrari,83042,3825742,6,False,,,2,3,5,6,4
+45,PER,Pérez,Red Bull,82927,3839841,7,False,,,1,2,17,16,7
+45,RUS,Russell,Mercedes,82880,3842705,8,False,,,1,2,12,17,8
+45,TSU,Tsunoda,RB F1 Team,84575,3859661,9,False,,,1,2,16,10,9
+45,STR,Stroll,Aston Martin,87098,3860838,10,True,2.0,22276.0,2,2,31,8,10
+45,ALO,Alonso,Aston Martin,83627,3867638,11,False,,,2,3,8,7,11
+45,RIC,Ricciardo,RB F1 Team,83966,3871839,12,False,,,2,3,17,9,12
+45,HUL,Hülkenberg,Haas F1 Team,86055,3877153,13,False,,,2,3,16,11,13
+45,ALB,Albon,Williams,84787,3878320,14,False,,,2,3,16,13,14
+45,BOT,Bottas,Sauber,88675,3879097,15,True,2.0,21981.0,2,2,29,12,16
+45,MAG,Magnussen,Haas F1 Team,84013,3885678,16,False,,,2,3,11,15,15
+45,OCO,Ocon,Alpine F1 Team,84180,3887395,17,False,,,2,3,15,19,18
+45,SAR,Sargeant,Williams,84394,3888649,18,False,,,2,3,12,14,17
+45,ZHO,Zhou,Sauber,85811,3905008,19,False,,,2,3,9,18,19
+46,PIA,Piastri,McLaren,84211,3882165,1,False,,,1,2,28,2,1
+46,VER,Verstappen,Red Bull,84003,3891169,2,False,,,1,2,25,3,5
+46,SAI,Sainz,Ferrari,84078,3900070,3,False,,,1,2,25,4,6
+46,NOR,Norris,McLaren,98951,3901180,4,False,,,2,3,1,1,2
+46,HAM,Hamilton,Mercedes,82937,3907337,5,False,,,2,3,6,5,3
+46,LEC,Leclerc,Ferrari,82923,3908665,6,False,,,2,3,6,6,4
+46,PER,Pérez,Red Bull,83579,3923420,7,False,,,1,2,18,16,7
+46,RUS,Russell,Mercedes,83344,3926049,8,False,,,1,2,13,17,8
+46,TSU,Tsunoda,RB F1 Team,84108,3943769,9,False,,,1,2,17,10,9
+46,ALO,Alonso,Aston Martin,83766,3951404,10,False,,,2,3,9,7,11
+46,RIC,Ricciardo,RB F1 Team,83838,3955677,11,False,,,2,3,18,9,12
+46,HUL,Hülkenberg,Haas F1 Team,83614,3960767,12,False,,,2,3,17,11,13
+46,ALB,Albon,Williams,84412,3962732,13,False,,,2,3,17,13,14
+46,STR,Stroll,Aston Martin,102054,3962892,14,False,,,2,3,1,8,10
+46,MAG,Magnussen,Haas F1 Team,83991,3969669,15,False,,,2,3,12,15,15
+46,OCO,Ocon,Alpine F1 Team,84179,3971574,16,False,,,2,3,16,19,18
+46,SAR,Sargeant,Williams,84462,3973111,17,False,,,2,3,13,14,17
+46,BOT,Bottas,Sauber,102313,3981410,18,False,,,2,3,1,12,16
+46,ZHO,Zhou,Sauber,84074,3989082,19,False,,,2,3,10,18,19
+47,PIA,Piastri,McLaren,86252,3968417,1,True,2.0,21823.0,2,2,29,2,1
+47,VER,Verstappen,Red Bull,84228,3975397,2,False,,,1,2,26,3,5
+47,NOR,Norris,McLaren,83290,3984470,3,False,,,2,3,2,1,2
+47,SAI,Sainz,Ferrari,87215,3987285,4,True,2.0,21439.0,2,2,26,4,6
+47,HAM,Hamilton,Mercedes,83097,3990434,5,False,,,2,3,7,5,3
+47,LEC,Leclerc,Ferrari,83379,3992044,6,False,,,2,3,7,6,4
+47,RUS,Russell,Mercedes,83102,4009151,7,False,,,1,2,14,17,8
+47,PER,Pérez,Red Bull,85878,4009298,8,True,2.0,21056.0,2,2,19,16,7
+47,TSU,Tsunoda,RB F1 Team,84103,4027872,9,False,,,1,2,18,10,9
+47,ALO,Alonso,Aston Martin,83730,4035134,10,False,,,2,3,10,7,11
+47,RIC,Ricciardo,RB F1 Team,83904,4039581,11,False,,,2,3,19,9,12
+47,HUL,Hülkenberg,Haas F1 Team,84394,4045161,12,False,,,2,3,18,11,13
+47,STR,Stroll,Aston Martin,82836,4045728,13,False,,,2,3,2,8,10
+47,ALB,Albon,Williams,85058,4047790,14,False,,,2,3,18,13,14
+47,MAG,Magnussen,Haas F1 Team,83844,4053513,15,False,,,2,3,13,15,15
+47,OCO,Ocon,Alpine F1 Team,84238,4055812,16,False,,,2,3,17,19,18
+47,SAR,Sargeant,Williams,84274,4057385,17,False,,,2,3,14,14,17
+47,BOT,Bottas,Sauber,83218,4064628,18,False,,,2,3,2,12,16
+47,ZHO,Zhou,Sauber,88073,4077155,19,False,,,2,3,11,18,19
+48,VER,Verstappen,Red Bull,84253,4059650,1,False,,,1,2,27,3,5
+48,NOR,Norris,McLaren,81954,4066424,2,False,,,2,3,3,1,2
+48,PIA,Piastri,McLaren,101384,4069801,3,False,,,2,3,1,2,1
+48,HAM,Hamilton,Mercedes,83090,4073524,4,False,,,2,3,8,5,3
+48,LEC,Leclerc,Ferrari,83051,4075095,5,False,,,2,3,8,6,4
+48,SAI,Sainz,Ferrari,100364,4087649,6,False,,,2,3,1,4,6
+48,RUS,Russell,Mercedes,83018,4092169,7,False,,,1,2,15,17,8
+48,PER,Pérez,Red Bull,99508,4108806,8,False,,,2,3,1,16,7
+48,TSU,Tsunoda,RB F1 Team,84695,4112567,9,False,,,1,2,19,10,9
+48,ALO,Alonso,Aston Martin,83881,4119015,10,False,,,2,3,11,7,11
+48,RIC,Ricciardo,RB F1 Team,84010,4123591,11,False,,,2,3,20,9,12
+48,STR,Stroll,Aston Martin,82338,4128066,12,False,,,2,3,3,8,10
+48,HUL,Hülkenberg,Haas F1 Team,85420,4130581,13,False,,,2,3,19,11,13
+48,ALB,Albon,Williams,84674,4132464,14,False,,,2,3,19,13,14
+48,MAG,Magnussen,Haas F1 Team,83791,4137304,15,False,,,2,3,14,15,15
+48,OCO,Ocon,Alpine F1 Team,84104,4139916,16,False,,,2,3,18,19,18
+48,SAR,Sargeant,Williams,84261,4141646,17,False,,,2,3,15,14,17
+48,BOT,Bottas,Sauber,84845,4149473,18,False,,,2,3,3,12,16
+48,ZHO,Zhou,Sauber,83851,4161006,19,False,,,2,3,12,18,19
+49,VER,Verstappen,Red Bull,86468,4146118,1,True,2.0,21344.0,2,2,28,3,5
+49,NOR,Norris,McLaren,82109,4148533,2,False,,,2,3,4,1,2
+49,PIA,Piastri,McLaren,82390,4152191,3,False,,,2,3,2,2,1
+49,HAM,Hamilton,Mercedes,82906,4156430,4,False,,,2,3,9,5,3
+49,LEC,Leclerc,Ferrari,82674,4157769,5,False,,,2,3,9,6,4
+49,SAI,Sainz,Ferrari,82097,4169746,6,False,,,2,3,2,4,6
+49,RUS,Russell,Mercedes,82691,4174860,7,False,,,1,2,16,17,8
+49,PER,Pérez,Red Bull,81096,4189902,8,False,,,2,3,2,16,7
+49,TSU,Tsunoda,RB F1 Team,84101,4196668,9,False,,,1,2,20,10,9
+49,ALO,Alonso,Aston Martin,83630,4202645,10,False,,,2,3,12,7,11
+49,RIC,Ricciardo,RB F1 Team,83645,4207236,11,False,,,2,3,21,9,12
+49,STR,Stroll,Aston Martin,82778,4210844,12,False,,,2,3,4,8,10
+49,HUL,Hülkenberg,Haas F1 Team,84112,4214693,13,False,,,2,3,20,11,13
+49,ALB,Albon,Williams,84357,4216821,14,False,,,2,3,20,13,14
+49,MAG,Magnussen,Haas F1 Team,83641,4220945,15,False,,,2,3,15,15,15
+49,OCO,Ocon,Alpine F1 Team,84157,4224073,16,False,,,2,3,19,19,18
+49,SAR,Sargeant,Williams,84170,4225816,17,False,,,2,3,16,14,17
+49,BOT,Bottas,Sauber,85509,4234982,18,False,,,2,3,4,12,16
+49,ZHO,Zhou,Sauber,83865,4244871,19,False,,,2,3,13,18,19
+50,NOR,Norris,McLaren,81712,4230245,1,False,,,2,3,5,1,2
+50,PIA,Piastri,McLaren,81863,4234054,2,False,,,2,3,3,2,1
+50,HAM,Hamilton,Mercedes,82670,4239100,3,False,,,2,3,10,5,3
+50,LEC,Leclerc,Ferrari,82726,4240495,4,False,,,2,3,10,6,4
+50,VER,Verstappen,Red Bull,99290,4245408,5,False,,,2,3,1,3,5
+50,SAI,Sainz,Ferrari,81557,4251303,6,False,,,2,3,3,4,6
+50,RUS,Russell,Mercedes,82605,4257465,7,False,,,1,2,17,17,8
+50,PER,Pérez,Red Bull,81299,4271201,8,False,,,2,3,3,16,7
+50,TSU,Tsunoda,RB F1 Team,83996,4280664,9,False,,,1,2,21,10,9
+50,ALO,Alonso,Aston Martin,83483,4286128,10,False,,,2,3,13,7,11
+50,RIC,Ricciardo,RB F1 Team,83549,4290785,11,False,,,2,3,22,9,12
+50,STR,Stroll,Aston Martin,82628,4293472,12,False,,,2,3,5,8,10
+50,HUL,Hülkenberg,Haas F1 Team,83851,4298544,13,False,,,2,3,21,11,13
+50,ALB,Albon,Williams,84307,4301128,14,False,,,2,3,21,13,14
+50,MAG,Magnussen,Haas F1 Team,83553,4304498,15,False,,,2,3,16,15,15
+50,OCO,Ocon,Alpine F1 Team,84109,4308182,16,False,,,2,3,20,19,18
+50,SAR,Sargeant,Williams,84250,4310066,17,False,,,2,3,17,14,17
+50,BOT,Bottas,Sauber,83411,4318393,18,False,,,2,3,5,12,16
+50,ZHO,Zhou,Sauber,85962,4330833,19,False,,,2,3,14,18,19
+51,NOR,Norris,McLaren,81976,4312221,1,False,,,2,3,6,1,2
+51,PIA,Piastri,McLaren,81716,4315770,2,False,,,2,3,4,2,1
+51,HAM,Hamilton,Mercedes,82991,4322091,3,False,,,2,3,11,5,3
+51,LEC,Leclerc,Ferrari,82910,4323405,4,False,,,2,3,11,6,4
+51,VER,Verstappen,Red Bull,80908,4326316,5,False,,,2,3,2,3,5
+51,SAI,Sainz,Ferrari,81870,4333173,6,False,,,2,3,4,4,6
+51,RUS,Russell,Mercedes,82711,4340176,7,False,,,1,2,18,17,8
+51,PER,Pérez,Red Bull,81603,4352804,8,False,,,2,3,4,16,7
+51,TSU,Tsunoda,RB F1 Team,83827,4364491,9,False,,,1,2,22,10,9
+51,ALO,Alonso,Aston Martin,83432,4369560,10,False,,,2,3,14,7,11
+51,RIC,Ricciardo,RB F1 Team,83564,4374349,11,False,,,2,3,23,9,12
+51,STR,Stroll,Aston Martin,83071,4376543,12,False,,,2,3,6,8,10
+51,HUL,Hülkenberg,Haas F1 Team,84030,4382574,13,False,,,2,3,22,11,13
+51,ALB,Albon,Williams,84193,4385321,14,False,,,2,3,22,13,14
+51,MAG,Magnussen,Haas F1 Team,83729,4388227,15,False,,,2,3,17,15,15
+51,OCO,Ocon,Alpine F1 Team,84057,4392239,16,False,,,2,3,21,19,18
+51,SAR,Sargeant,Williams,85427,4395493,17,False,,,2,3,18,14,17
+51,BOT,Bottas,Sauber,83042,4401435,18,False,,,2,3,6,12,16
+51,ZHO,Zhou,Sauber,85897,4416730,19,False,,,2,3,15,18,19
+52,NOR,Norris,McLaren,82429,4394650,1,False,,,2,3,7,1,2
+52,PIA,Piastri,McLaren,81861,4397631,2,False,,,2,3,5,2,1
+52,HAM,Hamilton,Mercedes,83021,4405112,3,False,,,2,3,12,5,3
+52,LEC,Leclerc,Ferrari,82834,4406239,4,False,,,2,3,12,6,4
+52,VER,Verstappen,Red Bull,81171,4407487,5,False,,,2,3,3,3,5
+52,SAI,Sainz,Ferrari,82187,4415360,6,False,,,2,3,5,4,6
+52,RUS,Russell,Mercedes,82924,4423100,7,False,,,1,2,19,17,8
+52,PER,Pérez,Red Bull,81584,4434388,8,False,,,2,3,5,16,7
+52,TSU,Tsunoda,RB F1 Team,83640,4448131,9,False,,,1,2,23,10,9
+52,ALO,Alonso,Aston Martin,83063,4452623,10,False,,,2,3,15,7,11
+52,RIC,Ricciardo,RB F1 Team,83443,4457792,11,False,,,2,3,24,9,12
+52,STR,Stroll,Aston Martin,82675,4459218,12,False,,,2,3,7,8,10
+52,HUL,Hülkenberg,Haas F1 Team,83878,4466452,13,False,,,2,3,23,11,13
+52,ALB,Albon,Williams,84061,4469382,14,False,,,2,3,23,13,14
+52,MAG,Magnussen,Haas F1 Team,83753,4471980,15,False,,,2,3,18,15,15
+52,OCO,Ocon,Alpine F1 Team,85311,4477550,16,False,,,2,3,22,19,18
+52,SAR,Sargeant,Williams,85587,4481080,17,False,,,2,3,19,14,17
+52,BOT,Bottas,Sauber,82792,4484227,18,False,,,2,3,7,12,16
+52,ZHO,Zhou,Sauber,84167,4500897,19,False,,,2,3,16,18,19
+53,NOR,Norris,McLaren,81890,4476540,1,False,,,2,3,8,1,2
+53,PIA,Piastri,McLaren,82367,4479998,2,False,,,2,3,6,2,1
+53,HAM,Hamilton,Mercedes,82580,4487692,3,False,,,2,3,13,5,3
+53,LEC,Leclerc,Ferrari,82826,4489065,4,False,,,2,3,13,6,4
+53,VER,Verstappen,Red Bull,82092,4489579,5,False,,,2,3,4,3,5
+53,SAI,Sainz,Ferrari,81441,4496801,6,False,,,2,3,6,4,6
+53,RUS,Russell,Mercedes,85333,4508433,7,True,2.0,21328.0,2,2,20,17,8
+53,PER,Pérez,Red Bull,81705,4516093,8,False,,,2,3,6,16,7
+53,TSU,Tsunoda,RB F1 Team,83696,4531827,9,False,,,1,2,24,10,9
+53,ALO,Alonso,Aston Martin,83140,4535763,10,False,,,2,3,16,7,11
+53,RIC,Ricciardo,RB F1 Team,83289,4541081,11,False,,,2,3,25,9,12
+53,STR,Stroll,Aston Martin,82826,4542044,12,False,,,2,3,8,8,10
+53,HUL,Hülkenberg,Haas F1 Team,83559,4550011,13,False,,,2,3,24,11,13
+53,ALB,Albon,Williams,84015,4553397,14,False,,,2,3,24,13,14
+53,MAG,Magnussen,Haas F1 Team,83890,4555870,15,False,,,2,3,19,15,15
+53,OCO,Ocon,Alpine F1 Team,85621,4563171,16,False,,,2,3,23,19,18
+53,SAR,Sargeant,Williams,84090,4565170,17,False,,,2,3,20,14,17
+53,BOT,Bottas,Sauber,82894,4567121,18,False,,,2,3,8,12,16
+53,ZHO,Zhou,Sauber,84213,4585110,19,False,,,2,3,17,18,19
+54,NOR,Norris,McLaren,81819,4558359,1,False,,,2,3,9,1,2
+54,PIA,Piastri,McLaren,82161,4562159,2,False,,,2,3,7,2,1
+54,HAM,Hamilton,Mercedes,82153,4569845,3,False,,,2,3,14,5,3
+54,LEC,Leclerc,Ferrari,82299,4571364,4,False,,,2,3,14,6,4
+54,VER,Verstappen,Red Bull,82292,4571871,5,False,,,2,3,5,3,5
+54,SAI,Sainz,Ferrari,81491,4578292,6,False,,,2,3,7,4,6
+54,PER,Pérez,Red Bull,81577,4597670,7,False,,,2,3,7,16,7
+54,RUS,Russell,Mercedes,98565,4606998,8,False,,,2,3,1,17,8
+54,TSU,Tsunoda,RB F1 Team,83557,4615384,9,False,,,1,2,25,10,9
+54,ALO,Alonso,Aston Martin,83166,4618929,10,False,,,2,3,17,7,11
+54,RIC,Ricciardo,RB F1 Team,83200,4624281,11,False,,,2,3,26,9,12
+54,STR,Stroll,Aston Martin,82938,4624982,12,False,,,2,3,9,8,10
+54,HUL,Hülkenberg,Haas F1 Team,83461,4633472,13,False,,,2,3,25,11,13
+54,ALB,Albon,Williams,83998,4637395,14,False,,,2,3,25,13,14
+54,MAG,Magnussen,Haas F1 Team,84029,4639899,15,False,,,2,3,20,15,15
+54,OCO,Ocon,Alpine F1 Team,84485,4647656,16,False,,,2,3,24,19,18
+54,SAR,Sargeant,Williams,84256,4649426,17,False,,,2,3,21,14,17
+54,BOT,Bottas,Sauber,83440,4650561,18,False,,,2,3,9,12,16
+54,ZHO,Zhou,Sauber,84092,4669202,19,False,,,2,3,18,18,19
+55,NOR,Norris,McLaren,82171,4640530,1,False,,,2,3,10,1,2
+55,PIA,Piastri,McLaren,81858,4644017,2,False,,,2,3,8,2,1
+55,HAM,Hamilton,Mercedes,82587,4652432,3,False,,,2,3,15,5,3
+55,LEC,Leclerc,Ferrari,82964,4654328,4,False,,,2,3,15,6,4
+55,VER,Verstappen,Red Bull,82987,4654858,5,False,,,2,3,6,3,5
+55,SAI,Sainz,Ferrari,81748,4660040,6,False,,,2,3,8,4,6
+55,PER,Pérez,Red Bull,81618,4679288,7,False,,,2,3,8,16,7
+55,RUS,Russell,Mercedes,80305,4687303,8,False,,,2,3,2,17,8
+55,TSU,Tsunoda,RB F1 Team,83664,4699048,9,False,,,1,2,26,10,9
+55,ALO,Alonso,Aston Martin,83108,4702037,10,False,,,2,3,18,7,11
+55,STR,Stroll,Aston Martin,82648,4707630,11,False,,,2,3,10,8,10
+55,RIC,Ricciardo,RB F1 Team,85433,4709714,12,False,,,2,3,27,9,12
+55,HUL,Hülkenberg,Haas F1 Team,83597,4717069,13,False,,,2,3,26,11,13
+55,ALB,Albon,Williams,83993,4721388,14,False,,,2,3,26,13,14
+55,MAG,Magnussen,Haas F1 Team,85576,4725475,15,False,,,2,3,21,15,15
+55,OCO,Ocon,Alpine F1 Team,84636,4732292,16,False,,,2,3,25,19,18
+55,SAR,Sargeant,Williams,84487,4733913,17,False,,,2,3,22,14,17
+55,BOT,Bottas,Sauber,85773,4736334,18,False,,,2,3,10,12,16
+55,ZHO,Zhou,Sauber,84017,4753219,19,False,,,2,3,19,18,19
+56,NOR,Norris,McLaren,82171,4722701,1,False,,,2,3,11,1,2
+56,PIA,Piastri,McLaren,82191,4726208,2,False,,,2,3,9,2,1
+56,HAM,Hamilton,Mercedes,83011,4735443,3,False,,,2,3,16,5,3
+56,LEC,Leclerc,Ferrari,83019,4737347,4,False,,,2,3,16,6,4
+56,VER,Verstappen,Red Bull,82774,4737632,5,False,,,2,3,7,3,5
+56,SAI,Sainz,Ferrari,82234,4742274,6,False,,,2,3,9,4,6
+56,PER,Pérez,Red Bull,81902,4761190,7,False,,,2,3,9,16,7
+56,RUS,Russell,Mercedes,81020,4768323,8,False,,,2,3,3,17,8
+56,TSU,Tsunoda,RB F1 Team,83590,4782638,9,False,,,1,2,27,10,9
+56,ALO,Alonso,Aston Martin,83327,4785364,10,False,,,2,3,19,7,11
+56,STR,Stroll,Aston Martin,82791,4790421,11,False,,,2,3,11,8,10
+56,RIC,Ricciardo,RB F1 Team,83623,4793337,12,False,,,2,3,28,9,12
+56,HUL,Hülkenberg,Haas F1 Team,83741,4800810,13,False,,,2,3,27,11,13
+56,ALB,Albon,Williams,85799,4807187,14,False,,,2,3,27,13,14
+56,MAG,Magnussen,Haas F1 Team,85837,4811312,15,False,,,2,3,22,15,15
+56,OCO,Ocon,Alpine F1 Team,84826,4817118,16,False,,,2,3,26,19,18
+56,SAR,Sargeant,Williams,87945,4821858,17,False,,,2,3,23,14,17
+56,BOT,Bottas,Sauber,86768,4823102,18,False,,,2,3,11,12,16
+56,ZHO,Zhou,Sauber,84175,4837394,19,False,,,2,3,20,18,19
+57,NOR,Norris,McLaren,82222,4804923,1,False,,,2,3,12,1,2
+57,PIA,Piastri,McLaren,82505,4808713,2,False,,,2,3,10,2,1
+57,HAM,Hamilton,Mercedes,82885,4818328,3,False,,,2,3,17,5,3
+57,VER,Verstappen,Red Bull,82626,4820258,4,False,,,2,3,8,3,5
+57,LEC,Leclerc,Ferrari,84626,4821973,5,False,,,2,3,17,6,4
+57,SAI,Sainz,Ferrari,82457,4824731,6,False,,,2,3,10,4,6
+57,PER,Pérez,Red Bull,81944,4843134,7,False,,,2,3,10,16,7
+57,RUS,Russell,Mercedes,81304,4849627,8,False,,,2,3,4,17,8
+57,TSU,Tsunoda,RB F1 Team,83533,4866171,9,False,,,1,2,28,10,9
+57,ALO,Alonso,Aston Martin,83326,4868690,10,False,,,2,3,20,7,11
+57,STR,Stroll,Aston Martin,82929,4873350,11,False,,,2,3,12,8,10
+57,RIC,Ricciardo,RB F1 Team,83561,4876898,12,False,,,2,3,29,9,12
+57,HUL,Hülkenberg,Haas F1 Team,83971,4884781,13,False,,,2,3,28,11,13
+57,ALB,Albon,Williams,86179,4893366,14,False,,,2,3,28,13,14
+57,MAG,Magnussen,Haas F1 Team,84310,4895622,15,False,,,2,3,23,15,15
+57,OCO,Ocon,Alpine F1 Team,89856,4906974,16,False,,,2,3,27,19,18
+57,SAR,Sargeant,Williams,86392,4908250,17,False,,,2,3,24,14,17
+57,BOT,Bottas,Sauber,86516,4909618,18,False,,,2,3,12,12,16
+57,ZHO,Zhou,Sauber,83986,4921380,19,False,,,2,3,21,18,19
+58,NOR,Norris,McLaren,81931,4886854,1,False,,,2,3,13,1,2
+58,PIA,Piastri,McLaren,82431,4891144,2,False,,,2,3,11,2,1
+58,HAM,Hamilton,Mercedes,82236,4900564,3,False,,,2,3,18,5,3
+58,VER,Verstappen,Red Bull,82195,4902453,4,False,,,2,3,9,3,5
+58,LEC,Leclerc,Ferrari,83592,4905565,5,False,,,2,3,18,6,4
+58,SAI,Sainz,Ferrari,83610,4908341,6,False,,,2,3,11,4,6
+58,PER,Pérez,Red Bull,82151,4925285,7,False,,,2,3,11,16,7
+58,RUS,Russell,Mercedes,81563,4931190,8,False,,,2,3,5,17,8
+58,TSU,Tsunoda,RB F1 Team,83840,4950011,9,False,,,1,2,29,10,9
+58,ALO,Alonso,Aston Martin,83289,4951979,10,False,,,2,3,21,7,11
+58,STR,Stroll,Aston Martin,83052,4956402,11,False,,,2,3,13,8,10
+58,RIC,Ricciardo,RB F1 Team,83467,4960365,12,False,,,2,3,30,9,12
+58,HUL,Hülkenberg,Haas F1 Team,85961,4970742,13,False,,,2,3,29,11,13
+58,ALB,Albon,Williams,84451,4977817,14,False,,,2,3,29,13,14
+58,MAG,Magnussen,Haas F1 Team,84356,4979978,15,False,,,2,3,24,15,15
+58,OCO,Ocon,Alpine F1 Team,86404,4993378,16,False,,,2,3,28,19,18
+58,SAR,Sargeant,Williams,85751,4994001,17,False,,,2,3,25,14,17
+58,BOT,Bottas,Sauber,85243,4994861,18,False,,,2,3,13,12,16
+58,ZHO,Zhou,Sauber,84307,5005687,19,False,,,2,3,22,18,19
+59,NOR,Norris,McLaren,82219,4969073,1,False,,,2,3,14,1,2
+59,PIA,Piastri,McLaren,82008,4973152,2,False,,,2,3,12,2,1
+59,HAM,Hamilton,Mercedes,82364,4982928,3,False,,,2,3,19,5,3
+59,VER,Verstappen,Red Bull,81868,4984321,4,False,,,2,3,10,3,5
+59,LEC,Leclerc,Ferrari,82569,4988134,5,False,,,2,3,19,6,4
+59,SAI,Sainz,Ferrari,82281,4990622,6,False,,,2,3,12,4,6
+59,PER,Pérez,Red Bull,82444,5007729,7,False,,,2,3,12,16,7
+59,RUS,Russell,Mercedes,81706,5012896,8,False,,,2,3,6,17,8
+59,TSU,Tsunoda,RB F1 Team,83918,5033929,9,False,,,1,2,30,10,9
+59,ALO,Alonso,Aston Martin,83640,5035619,10,False,,,2,3,22,7,11
+59,STR,Stroll,Aston Martin,83017,5039419,11,False,,,2,3,14,8,10
+59,RIC,Ricciardo,RB F1 Team,83829,5044194,12,False,,,2,3,31,9,12
+59,HUL,Hülkenberg,Haas F1 Team,86496,5057238,13,False,,,2,3,30,11,13
+59,ALB,Albon,Williams,84640,5062457,14,False,,,2,3,30,13,14
+59,MAG,Magnussen,Haas F1 Team,84646,5064624,15,False,,,2,3,25,15,15
+59,OCO,Ocon,Alpine F1 Team,84858,5078236,16,False,,,2,3,29,19,18
+59,SAR,Sargeant,Williams,84935,5078936,17,False,,,2,3,26,14,17
+59,BOT,Bottas,Sauber,85074,5079935,18,False,,,2,3,14,12,16
+59,ZHO,Zhou,Sauber,87184,5092871,19,False,,,2,3,23,18,19
+60,NOR,Norris,McLaren,81798,5050871,1,False,,,2,3,15,1,2
+60,PIA,Piastri,McLaren,82542,5055694,2,False,,,2,3,13,2,1
+60,HAM,Hamilton,Mercedes,82841,5065769,3,False,,,2,3,20,5,3
+60,VER,Verstappen,Red Bull,82483,5066804,4,False,,,2,3,11,3,5
+60,LEC,Leclerc,Ferrari,82580,5070714,5,False,,,2,3,20,6,4
+60,SAI,Sainz,Ferrari,82495,5073117,6,False,,,2,3,13,4,6
+60,PER,Pérez,Red Bull,82645,5090374,7,False,,,2,3,13,16,7
+60,RUS,Russell,Mercedes,82159,5095055,8,False,,,2,3,7,17,8
+60,TSU,Tsunoda,RB F1 Team,83792,5117721,9,False,,,1,2,31,10,9
+60,ALO,Alonso,Aston Martin,83750,5119369,10,False,,,2,3,23,7,11
+60,STR,Stroll,Aston Martin,83361,5122780,11,False,,,2,3,15,8,10
+60,RIC,Ricciardo,RB F1 Team,83902,5128096,12,False,,,2,3,32,9,12
+60,HUL,Hülkenberg,Haas F1 Team,85022,5142260,13,False,,,2,3,31,11,13
+60,ALB,Albon,Williams,84594,5147051,14,False,,,2,3,31,13,14
+60,MAG,Magnussen,Haas F1 Team,87075,5151699,15,False,,,2,3,26,15,15
+60,OCO,Ocon,Alpine F1 Team,84645,5162881,16,False,,,2,3,30,19,18
+60,SAR,Sargeant,Williams,85004,5163940,17,False,,,2,3,27,14,17
+60,BOT,Bottas,Sauber,84440,5164375,18,False,,,2,3,15,12,16
+60,ZHO,Zhou,Sauber,86620,5179491,19,False,,,2,3,24,18,19
+61,NOR,Norris,McLaren,81886,5132757,1,False,,,2,3,16,1,2
+61,PIA,Piastri,McLaren,82060,5137754,2,False,,,2,3,14,2,1
+61,HAM,Hamilton,Mercedes,83180,5148949,3,False,,,2,3,21,5,3
+61,VER,Verstappen,Red Bull,82761,5149565,4,False,,,2,3,12,3,5
+61,LEC,Leclerc,Ferrari,82894,5153608,5,False,,,2,3,21,6,4
+61,SAI,Sainz,Ferrari,82724,5155841,6,False,,,2,3,14,4,6
+61,PER,Pérez,Red Bull,82435,5172809,7,False,,,2,3,14,16,7
+61,RUS,Russell,Mercedes,83000,5178055,8,False,,,2,3,8,17,8
+61,TSU,Tsunoda,RB F1 Team,83728,5201449,9,False,,,1,2,32,10,9
+61,ALO,Alonso,Aston Martin,83996,5203365,10,False,,,2,3,24,7,11
+61,STR,Stroll,Aston Martin,83024,5205804,11,False,,,2,3,16,8,10
+61,RIC,Ricciardo,RB F1 Team,83920,5212016,12,False,,,2,3,33,9,12
+61,HUL,Hülkenberg,Haas F1 Team,84102,5226362,13,False,,,2,3,32,11,13
+61,ALB,Albon,Williams,84153,5231204,14,False,,,2,3,32,13,14
+61,MAG,Magnussen,Haas F1 Team,86232,5237931,15,False,,,2,3,27,15,15
+61,OCO,Ocon,Alpine F1 Team,84637,5247518,16,False,,,2,3,31,19,18
+61,BOT,Bottas,Sauber,84130,5248505,17,False,,,2,3,16,12,16
+61,SAR,Sargeant,Williams,86293,5250233,18,False,,,2,3,28,14,17
+61,ZHO,Zhou,Sauber,84475,5263966,19,False,,,2,3,25,18,19
+62,NOR,Norris,McLaren,81883,5214640,1,False,,,2,3,17,1,2
+62,PIA,Piastri,McLaren,82157,5219911,2,False,,,2,3,15,2,1
+62,HAM,Hamilton,Mercedes,83263,5232212,3,False,,,2,3,22,5,3
+62,VER,Verstappen,Red Bull,83090,5232655,4,False,,,2,3,13,3,5
+62,LEC,Leclerc,Ferrari,83122,5236730,5,False,,,2,3,22,6,4
+62,SAI,Sainz,Ferrari,82869,5238710,6,False,,,2,3,15,4,6
+62,PER,Pérez,Red Bull,82062,5254871,7,False,,,2,3,15,16,7
+62,RUS,Russell,Mercedes,82162,5260217,8,False,,,2,3,9,17,8
+62,TSU,Tsunoda,RB F1 Team,83745,5285194,9,False,,,1,2,33,10,9
+62,ALO,Alonso,Aston Martin,83911,5287276,10,False,,,2,3,25,7,11
+62,STR,Stroll,Aston Martin,83577,5289381,11,False,,,2,3,17,8,10
+62,RIC,Ricciardo,RB F1 Team,84356,5296372,12,False,,,2,3,34,9,12
+62,HUL,Hülkenberg,Haas F1 Team,84280,5310642,13,False,,,2,3,33,11,13
+62,ALB,Albon,Williams,87412,5318616,14,False,,,2,3,33,13,14
+62,MAG,Magnussen,Haas F1 Team,86792,5324723,15,False,,,2,3,28,15,15
+62,OCO,Ocon,Alpine F1 Team,85143,5332661,16,False,,,2,3,32,19,18
+62,BOT,Bottas,Sauber,84604,5333109,17,False,,,2,3,17,12,16
+62,SAR,Sargeant,Williams,85867,5336100,18,False,,,2,3,29,14,17
+62,ZHO,Zhou,Sauber,84772,5348738,19,False,,,2,3,26,18,19
+63,NOR,Norris,McLaren,82602,5297242,1,False,,,2,3,18,1,2
+63,PIA,Piastri,McLaren,82459,5302370,2,False,,,2,3,16,2,1
+63,HAM,Hamilton,Mercedes,83778,5315990,3,False,,,2,3,23,5,3
+63,LEC,Leclerc,Ferrari,82977,5319707,4,False,,,2,3,23,6,4
+63,VER,Verstappen,Red Bull,88648,5321303,5,False,,,2,3,14,3,5
+63,SAI,Sainz,Ferrari,83407,5322117,6,False,,,2,3,16,4,6
+63,PER,Pérez,Red Bull,82891,5337762,7,False,,,2,3,16,16,7
+63,RUS,Russell,Mercedes,82192,5342409,8,False,,,2,3,10,17,8
+63,TSU,Tsunoda,RB F1 Team,84013,5369207,9,False,,,1,2,34,10,9
+63,ALO,Alonso,Aston Martin,84200,5371476,10,False,,,2,3,26,7,11
+63,STR,Stroll,Aston Martin,83829,5373210,11,False,,,2,3,18,8,10
+63,RIC,Ricciardo,RB F1 Team,87487,5383859,12,False,,,2,3,35,9,12
+63,HUL,Hülkenberg,Haas F1 Team,85490,5396132,13,False,,,2,3,34,11,13
+63,ALB,Albon,Williams,89563,5408179,14,False,,,2,3,34,13,14
+63,MAG,Magnussen,Haas F1 Team,86209,5410932,15,False,,,2,3,29,15,15
+63,OCO,Ocon,Alpine F1 Team,85747,5418408,16,False,,,2,3,33,19,18
+63,BOT,Bottas,Sauber,85589,5418698,17,False,,,2,3,18,12,16
+63,SAR,Sargeant,Williams,89989,5426089,18,True,3.0,21908.0,3,3,30,14,17
+63,ZHO,Zhou,Sauber,85305,5434043,19,False,,,2,3,27,18,19
+64,NOR,Norris,McLaren,82469,5379711,1,False,,,2,3,19,1,2
+64,PIA,Piastri,McLaren,83060,5385430,2,False,,,2,3,17,2,1
+64,HAM,Hamilton,Mercedes,83100,5399090,3,False,,,2,3,24,5,3
+64,LEC,Leclerc,Ferrari,83391,5403098,4,False,,,2,3,24,6,4
+64,VER,Verstappen,Red Bull,83764,5405067,5,False,,,2,3,15,3,5
+64,SAI,Sainz,Ferrari,83679,5405796,6,False,,,2,3,17,4,6
+64,PER,Pérez,Red Bull,83425,5421187,7,False,,,2,3,17,16,7
+64,RUS,Russell,Mercedes,82928,5425337,8,False,,,2,3,11,17,8
+64,TSU,Tsunoda,RB F1 Team,84217,5453424,9,False,,,1,2,35,10,9
+64,ALO,Alonso,Aston Martin,84687,5456163,10,False,,,2,3,27,7,11
+64,STR,Stroll,Aston Martin,83773,5456983,11,False,,,2,3,19,8,10
+64,RIC,Ricciardo,RB F1 Team,87195,5471054,12,False,,,2,3,36,9,12
+64,HUL,Hülkenberg,Haas F1 Team,85253,5481385,13,False,,,2,3,35,11,13
+64,ALB,Albon,Williams,85703,5493882,14,False,,,2,3,35,13,14
+64,MAG,Magnussen,Haas F1 Team,85576,5496508,15,False,,,2,3,30,15,15
+64,BOT,Bottas,Sauber,84466,5503164,16,False,,,2,3,19,12,16
+64,OCO,Ocon,Alpine F1 Team,91815,5510223,17,True,3.0,21330.0,3,3,34,19,18
+64,ZHO,Zhou,Sauber,84986,5519029,18,False,,,2,3,28,18,19
+64,SAR,Sargeant,Williams,99810,5525899,19,False,,,3,4,1,14,17
+65,NOR,Norris,McLaren,82481,5462192,1,False,,,2,3,20,1,2
+65,PIA,Piastri,McLaren,82771,5468201,2,False,,,2,3,18,2,1
+65,HAM,Hamilton,Mercedes,83508,5482598,3,False,,,2,3,25,5,3
+65,LEC,Leclerc,Ferrari,83063,5486161,4,False,,,2,3,25,6,4
+65,VER,Verstappen,Red Bull,82803,5487870,5,False,,,2,3,16,3,5
+65,SAI,Sainz,Ferrari,83392,5489188,6,False,,,2,3,18,4,6
+65,PER,Pérez,Red Bull,84173,5505360,7,False,,,2,3,18,16,7
+65,RUS,Russell,Mercedes,82963,5508300,8,False,,,2,3,12,17,8
+65,TSU,Tsunoda,RB F1 Team,84149,5537573,9,False,,,1,2,36,10,9
+65,STR,Stroll,Aston Martin,83183,5540166,10,False,,,2,3,20,8,10
+65,ALO,Alonso,Aston Martin,85916,5542079,11,False,,,2,3,28,7,11
+65,RIC,Ricciardo,RB F1 Team,85457,5556511,12,False,,,2,3,37,9,12
+65,HUL,Hülkenberg,Haas F1 Team,88970,5570355,13,False,,,2,3,36,11,13
+65,ALB,Albon,Williams,85075,5578957,14,False,,,2,3,36,13,14
+65,MAG,Magnussen,Haas F1 Team,85180,5581688,15,False,,,2,3,31,15,15
+65,BOT,Bottas,Sauber,83596,5586760,16,False,,,2,3,20,12,16
+65,ZHO,Zhou,Sauber,84720,5603749,17,False,,,2,3,29,18,19
+65,SAR,Sargeant,Williams,80561,5606460,18,False,,,3,4,2,14,17
+65,OCO,Ocon,Alpine F1 Team,101409,5611632,19,False,,,3,4,1,19,18
+66,NOR,Norris,McLaren,82620,5544812,1,False,,,2,3,21,1,2
+66,PIA,Piastri,McLaren,82645,5550846,2,False,,,2,3,19,2,1
+66,HAM,Hamilton,Mercedes,82522,5565120,3,False,,,2,3,26,5,3
+66,LEC,Leclerc,Ferrari,83387,5569548,4,False,,,2,3,26,6,4
+66,VER,Verstappen,Red Bull,83001,5570871,5,False,,,2,3,17,3,5
+66,SAI,Sainz,Ferrari,83265,5572453,6,False,,,2,3,19,4,6
+66,PER,Pérez,Red Bull,83174,5588534,7,False,,,2,3,19,16,7
+66,RUS,Russell,Mercedes,83071,5591371,8,False,,,2,3,13,17,8
+66,TSU,Tsunoda,RB F1 Team,84059,5621632,9,False,,,1,2,37,10,9
+66,STR,Stroll,Aston Martin,83425,5623591,10,False,,,2,3,21,8,10
+66,ALO,Alonso,Aston Martin,84581,5626660,11,False,,,2,3,29,7,11
+66,RIC,Ricciardo,RB F1 Team,84848,5641359,12,False,,,2,3,38,9,12
+66,HUL,Hülkenberg,Haas F1 Team,88909,5659264,13,False,,,2,3,37,11,13
+66,ALB,Albon,Williams,84974,5663931,14,False,,,2,3,37,13,14
+66,MAG,Magnussen,Haas F1 Team,84910,5666598,15,False,,,2,3,32,15,15
+66,BOT,Bottas,Sauber,83458,5670218,16,False,,,2,3,21,12,16
+66,ZHO,Zhou,Sauber,84826,5688575,17,False,,,2,3,30,18,19
+66,SAR,Sargeant,Williams,82299,5688759,18,False,,,3,4,3,14,17
+66,OCO,Ocon,Alpine F1 Team,81610,5693242,19,False,,,3,4,2,19,18
+67,NOR,Norris,McLaren,85666,5630478,1,False,,,2,3,22,1,2
+67,PIA,Piastri,McLaren,82620,5633466,2,False,,,2,3,20,2,1
+67,HAM,Hamilton,Mercedes,82839,5647959,3,False,,,2,3,27,5,3
+67,LEC,Leclerc,Ferrari,83030,5652578,4,False,,,2,3,27,6,4
+67,VER,Verstappen,Red Bull,82830,5653701,5,False,,,2,3,18,3,5
+67,SAI,Sainz,Ferrari,83095,5655548,6,False,,,2,3,20,4,6
+67,PER,Pérez,Red Bull,83257,5671791,7,False,,,2,3,20,16,7
+67,RUS,Russell,Mercedes,82658,5674029,8,False,,,2,3,14,17,8
+67,TSU,Tsunoda,RB F1 Team,84223,5705855,9,False,,,1,2,38,10,9
+67,STR,Stroll,Aston Martin,83757,5707348,10,False,,,2,3,22,8,10
+67,ALO,Alonso,Aston Martin,84169,5710829,11,False,,,2,3,30,7,11
+67,RIC,Ricciardo,RB F1 Team,84937,5726296,12,False,,,2,3,39,9,12
+67,HUL,Hülkenberg,Haas F1 Team,85645,5744909,13,False,,,2,3,38,11,13
+67,ALB,Albon,Williams,84987,5748918,14,False,,,2,3,38,13,14
+67,MAG,Magnussen,Haas F1 Team,84964,5751562,15,False,,,2,3,33,15,15
+67,BOT,Bottas,Sauber,83244,5753462,16,False,,,2,3,22,12,16
+67,SAR,Sargeant,Williams,82189,5770948,17,False,,,3,4,4,14,17
+67,ZHO,Zhou,Sauber,85652,5774227,18,False,,,2,3,31,18,19
+67,OCO,Ocon,Alpine F1 Team,82174,5775416,19,False,,,3,4,3,19,18
+68,PIA,Piastri,McLaren,82999,5716465,1,False,,,2,3,21,2,1
+68,NOR,Norris,McLaren,86787,5717265,2,False,,,2,3,23,1,2
+68,HAM,Hamilton,Mercedes,82861,5730820,3,False,,,2,3,28,5,3
+68,LEC,Leclerc,Ferrari,82870,5735448,4,False,,,2,3,28,6,4
+68,VER,Verstappen,Red Bull,83201,5736902,5,False,,,2,3,19,3,5
+68,SAI,Sainz,Ferrari,83102,5738650,6,False,,,2,3,21,4,6
+68,PER,Pérez,Red Bull,83020,5754811,7,False,,,2,3,21,16,7
+68,RUS,Russell,Mercedes,82685,5756714,8,False,,,2,3,15,17,8
+68,TSU,Tsunoda,RB F1 Team,84314,5790169,9,False,,,1,2,39,10,9
+68,STR,Stroll,Aston Martin,83787,5791135,10,False,,,2,3,23,8,10
+68,ALO,Alonso,Aston Martin,84092,5794921,11,False,,,2,3,31,7,11
+68,RIC,Ricciardo,RB F1 Team,85525,5811821,12,False,,,2,3,40,9,12
+68,HUL,Hülkenberg,Haas F1 Team,84970,5829879,13,False,,,2,3,39,11,13
+68,ALB,Albon,Williams,84980,5833898,14,False,,,2,3,39,13,14
+68,MAG,Magnussen,Haas F1 Team,85305,5836867,15,False,,,2,3,34,15,15
+68,BOT,Bottas,Sauber,86159,5839621,16,False,,,2,3,23,12,16
+68,SAR,Sargeant,Williams,81789,5852737,17,False,,,3,4,5,14,17
+68,ZHO,Zhou,Sauber,84973,5859200,18,False,,,2,3,32,18,19
+68,OCO,Ocon,Alpine F1 Team,84133,5859549,19,False,,,3,4,4,19,18
+69,PIA,Piastri,McLaren,82597,5799062,1,False,,,2,3,22,2,1
+69,NOR,Norris,McLaren,82862,5800127,2,False,,,2,3,24,1,2
+69,HAM,Hamilton,Mercedes,83094,5813914,3,False,,,2,3,29,5,3
+69,LEC,Leclerc,Ferrari,83118,5818566,4,False,,,2,3,29,6,4
+69,VER,Verstappen,Red Bull,83183,5820085,5,False,,,2,3,20,3,5
+69,SAI,Sainz,Ferrari,83076,5821726,6,False,,,2,3,22,4,6
+69,PER,Pérez,Red Bull,83523,5838334,7,False,,,2,3,22,16,7
+69,RUS,Russell,Mercedes,83580,5840294,8,False,,,2,3,16,17,8
+69,TSU,Tsunoda,RB F1 Team,84338,5874507,9,False,,,1,2,40,10,9
+69,STR,Stroll,Aston Martin,84387,5875522,10,False,,,2,3,24,8,10
+69,ALO,Alonso,Aston Martin,84080,5879001,11,False,,,2,3,32,7,11
+69,RIC,Ricciardo,RB F1 Team,88092,5899913,12,False,,,2,3,41,9,12
+69,HUL,Hülkenberg,Haas F1 Team,85294,5915173,13,False,,,2,3,40,11,13
+69,ALB,Albon,Williams,84860,5918758,14,False,,,2,3,40,13,14
+69,MAG,Magnussen,Haas F1 Team,90424,5927291,15,False,,,2,3,35,15,15
+69,BOT,Bottas,Sauber,87777,5927398,16,False,,,2,3,24,12,16
+69,SAR,Sargeant,Williams,81843,5934580,17,False,,,3,4,6,14,17
+69,OCO,Ocon,Alpine F1 Team,83369,5942918,18,False,,,3,4,5,19,18
+69,ZHO,Zhou,Sauber,86387,5945587,19,False,,,2,3,33,18,19
+70,PIA,Piastri,McLaren,82927,5881989,1,False,,,2,3,23,2,1
+70,NOR,Norris,McLaren,84003,5884130,2,False,,,2,3,25,1,2
+70,HAM,Hamilton,Mercedes,82955,5896869,3,False,,,2,3,30,5,3
+70,LEC,Leclerc,Ferrari,83109,5901675,4,False,,,2,3,30,6,4
+70,VER,Verstappen,Red Bull,83253,5903338,5,False,,,2,3,21,3,5
+70,SAI,Sainz,Ferrari,83336,5905062,6,False,,,2,3,23,4,6
+70,PER,Pérez,Red Bull,83447,5921781,7,False,,,2,3,23,16,7
+70,RUS,Russell,Mercedes,84063,5924357,8,False,,,2,3,17,17,8
+70,TSU,Tsunoda,RB F1 Team,84741,5959248,9,False,,,1,2,41,10,9
+70,STR,Stroll,Aston Martin,84443,5959965,10,False,,,2,3,25,8,10
+70,ALO,Alonso,Aston Martin,85448,5964449,11,False,,,2,3,33,7,11
